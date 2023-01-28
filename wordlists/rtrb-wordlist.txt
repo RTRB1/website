@@ -159297,6 +159297,7 @@ magazines
 magazinist
 magazinists
 magcon
+magcons
 magdalen
 magdalene
 magdalenes
