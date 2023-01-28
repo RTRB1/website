@@ -6060,6 +6060,8 @@ alembications
 alembics
 alembroth
 alembroths
+alemonger
+alemongers
 alencon
 alencons
 alength
@@ -9920,6 +9922,7 @@ announce
 announced
 announcement
 announcements
+announcementware
 announcer
 announcers
 announces
@@ -22426,6 +22429,8 @@ bearishness
 bearishnesses
 bearleader
 bearleaders
+bearlet
+bearlets
 bearlike
 bearnaise
 bearnaises
@@ -27039,6 +27044,8 @@ birdie
 birdied
 birdieing
 birdies
+birdikin
+birdikins
 birding
 birdings
 birdlife
@@ -27495,9 +27502,11 @@ bizarre
 bizarrely
 bizarreness
 bizarrenesses
+bizarrer
 bizarrerie
 bizarreries
 bizarres
+bizarrest
 bizarro
 bizarros
 bizazz
@@ -29212,6 +29221,8 @@ bobeche
 bobeches
 bobfloat
 bobfloats
+bobkitten
+bobkittens
 boblet
 boblets
 bobo
@@ -34247,6 +34258,8 @@ bullpen
 bullpens
 bullpout
 bullpouts
+bullpup
+bullpups
 bullring
 bullrings
 bullroarer
@@ -43547,6 +43560,7 @@ cheesetaster
 cheesetasters
 cheesevat
 cheesevats
+cheeseware
 cheesewire
 cheesewires
 cheesewood
@@ -63087,6 +63101,8 @@ cyberterrorisms
 cyberterrorist
 cyberterrorists
 cyberwar
+cyberware
+cyberwares
 cyberwars
 cyborg
 cyborgs
@@ -66865,6 +66881,8 @@ deerhounds
 deerlet
 deerlets
 deerlike
+deerling
+deerlings
 deers
 deerskin
 deerskins
@@ -78428,6 +78446,8 @@ doegling
 doek
 doeks
 doelike
+doeling
+doelings
 doen
 doer
 doers
@@ -97446,6 +97466,7 @@ faurd
 faurer
 faurest
 fausen
+fausens
 faussebraie
 faustian
 faut
@@ -97554,6 +97575,8 @@ fawningness
 fawningnesses
 fawnings
 fawnlike
+fawnling
+fawnlings
 fawns
 fawny
 faws
@@ -101634,6 +101657,8 @@ flippantness
 flippantnesses
 flipped
 flipper
+flipperling
+flipperlings
 flippers
 flippest
 flippier
@@ -102115,6 +102140,9 @@ flowsheets
 flowstone
 flowstones
 flox
+floxed
+floxes
+floxing
 flu
 fluate
 fluates
@@ -104839,6 +104867,8 @@ fowths
 fox
 foxberries
 foxberry
+foxcore
+foxcores
 foxed
 foxes
 foxfire
@@ -104868,6 +104898,8 @@ foxinesses
 foxing
 foxings
 foxlike
+foxling
+foxlings
 foxshark
 foxsharks
 foxship
@@ -124512,6 +124544,9 @@ hirlings
 hirmos
 hirola
 hirolas
+hirondeau
+hirondeaus
+hirondeaux
 hirondelle
 hirple
 hirpled
@@ -125246,6 +125281,7 @@ holey
 holeyer
 holeyest
 holi
+holibobs
 holibut
 holibuts
 holiday
@@ -126726,7 +126762,11 @@ horselaughs
 horseleech
 horseleeches
 horseless
+horselet
+horselets
 horselike
+horseling
+horselings
 horseman
 horsemanship
 horsemanships
@@ -151625,6 +151665,8 @@ lavrocks
 lavs
 lavvies
 lavvy
+lavway
+lavways
 law
 lawbook
 lawbooks
@@ -152918,6 +152960,7 @@ lepospondyl
 lepospondyls
 lepped
 lepper
+leppies
 lepping
 leppy
 lepra
@@ -164064,6 +164107,8 @@ meered
 meering
 meerkat
 meerkats
+meerkitten
+meerkittens
 meers
 meerschaum
 meerschaums
@@ -185871,10 +185916,12 @@ obambulations
 obang
 obangs
 obas
+obbies
 obbligati
 obbligato
 obbligatos
 obbo
+obby
 obcompressed
 obconic
 obconical
@@ -202058,6 +202105,7 @@ peacemakers
 peacemaking
 peacemakings
 peacemonger
+peacemongers
 peacenik
 peaceniks
 peaces
@@ -215025,6 +215073,8 @@ porcine
 porcini
 porcinis
 porcino
+porcupette
+porcupettes
 porcupine
 porcupines
 porcupinier
@@ -224260,6 +224310,8 @@ puffingly
 puffings
 puffinosis
 puffins
+puffling
+pufflings
 puffs
 pufftaloonas
 puffy
@@ -248480,6 +248532,7 @@ scauping
 scaups
 scaur
 scaured
+scaurie
 scauries
 scauring
 scaurs
@@ -256241,6 +256294,7 @@ shittiness
 shittinesses
 shitting
 shitty
+shitware
 shitwork
 shitworks
 shitzu
@@ -258987,6 +259041,7 @@ sirdars
 sire
 sired
 siredon
+siredons
 siree
 sireen
 sirees
@@ -259316,6 +259371,8 @@ sjoe
 ska
 skaapsteker
 skaapstekers
+skaddon
+skaddons
 skag
 skags
 skail
@@ -264350,6 +264407,8 @@ somnolescent
 somoni
 somonis
 soms
+somule
+somules
 somy
 son
 sonagram
@@ -267641,6 +267700,10 @@ splayfooted
 splayfootedly
 splaying
 splays
+spleef
+spleefed
+spleefing
+spleefs
 spleen
 spleenful
 spleenfully
@@ -279599,6 +279662,8 @@ swallower
 swallowers
 swallowing
 swallowlike
+swallowling
+swallowlings
 swallows
 swallowtail
 swallowtails
@@ -291923,6 +291988,8 @@ torrified
 torrifies
 torrify
 torrifying
+torrock
+torrocks
 torrs
 torry
 torrying
@@ -299036,6 +299103,8 @@ ugsomeness
 ugsomenesses
 uguisu
 uh
+uhh
+uhhh
 uhlan
 uhlans
 uhuru
@@ -310459,16 +310528,8 @@ utternesses
 utters
 utu
 utus
-uu
-uudecode
-uudecoded
-uudecodes
-uudecoding
-uuencode
-uuencoded
-uuencodes
-uuencoding
-uus
+uuh
+uuuh
 uva
 uvae
 uvala
@@ -321391,6 +321452,7 @@ woodmeals
 woodmen
 woodmice
 woodmonger
+woodmongers
 woodmouse
 woodness
 woodnesses
