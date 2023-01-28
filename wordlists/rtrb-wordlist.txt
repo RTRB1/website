@@ -26075,6 +26075,7 @@ bilboa
 bilboas
 bilboes
 bilboquet
+bilboquets
 bilbos
 bilby
 bildungsroman
@@ -90730,6 +90731,7 @@ equivoques
 equivote
 equivotes
 equulei
+equuleus
 equus
 er
 era
@@ -127416,7 +127418,6 @@ hryvnya
 hryvnyas
 hsi
 hsiang
-html
 huaca
 huaco
 huanaco
@@ -142072,7 +142073,10 @@ isozymic
 ispaghul
 ispaghula
 ispaghulas
+ispravnic
+ispravnics
 ispravnik
+ispravniks
 israeli
 israelis
 israelite
@@ -142293,7 +142297,6 @@ izards
 izars
 izba
 izbas
-izby
 izhitsa
 izhitsas
 izica
@@ -144930,6 +144933,8 @@ junking
 junklike
 junkman
 junkmen
+junkpile
+junkpiles
 junks
 junky
 junkyard
@@ -149139,6 +149144,7 @@ kvetching
 kvetchings
 kvetchy
 kvutza
+kvutzot
 kwa
 kwacha
 kwachas
@@ -153796,6 +153802,7 @@ librarianships
 libraries
 librarious
 library
+librarykeeping
 librarylike
 libras
 librate
@@ -197530,6 +197537,7 @@ pakehas
 pakfong
 pakfongs
 pakhal
+pakhavaj
 pakhawaj
 pakhtun
 pakhtuns
@@ -209788,6 +209796,9 @@ pinites
 pinitol
 pinitols
 pinjrapol
+pinjrapole
+pinjrapoles
+pinjrapols
 pink
 pinked
 pinkeen
@@ -253546,7 +253557,6 @@ sepultured
 sepultures
 sepulturing
 sepurture
-seqq
 sequacious
 sequaciously
 sequaciousness
@@ -318703,6 +318713,8 @@ whaleboats
 whalebone
 whalebones
 whaled
+whalefall
+whalefalls
 whalelike
 whaleman
 whalemen
