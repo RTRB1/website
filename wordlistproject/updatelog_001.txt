@@ -1,0 +1,289 @@
+ADDITIONS:
+abare              (v) to strip or uncover something; to make bare
+abares             (v) conjugation of ABARE
+abared             (v) conjugation of ABARE
+abaring            (v) conjugation of ABARE
+subquestion        (n) a question forming a part of another, broader question
+subquestions       (n) plural of SUBQUESTION
+subquery           (n, computer science) a query embedded within a more extensive query, relating only to the data returned by the parent query
+subqueries         (n) plural of SBUQUERY
+subquality         (n) a distinct, smaller aspect of a larger quality (of something)
+subqualities       (n) plural of SUBQUALITY
+subquantum         (adj, particle physics) describing that which can be described by alternatives to quantum physics 
+subquark           (n, particle physics) any hypothetical particle that forms the component parts of quarks
+subquarks          (n) plural of SUBQUARK
+pollum             (n) a historic unit of weight in India approximately equal to 1.2 ounces or 34 grams
+pollums            (n) plural of POLLUM
+pycnometer         (n) a vessel of known volume used to determine the specific gravity of fluids
+pycnometers        (n) plural of PYCNOMETER
+sverdrup           (n, oceanography) a unit of volume transport, used in oceanography, equal to 1,000,000 cubic meters (of water) per second
+sverdrups          (n) plural of SVERDRUP
+qafiz              (n, Arabic) a traditional Arab unit of volume having no standard size
+qafizes            (n) plural of QAFIZ
+kafiz              (n) an alternative spelling of QAFIZ
+kafizes            (n) an alternative spelling of QAFIZES
+cafiz              (n) an alternative spelling of QAFIZ
+cafizes            (n) an alternative spelling of QAFIZES
+cahiz              (n, Andalusian Spain) a traditional Spanish unit of volume measurement approximately equal to 665 liters
+cahizes            (n) plural of CAHIZ
+cahizada           (n, Andalusian Spain) a traditional Spanish unit of land measure equal to the amount of farmland that can be sown with one cahiz of seeds
+cahizadas          (n) plural of CAHIZADA
+ochava             (n, Spanish) a unit of measurement being one-eighth of the Spanish ounce and approximately equal to 4 grams
+ochavas            (n) plural of OCHAVA
+minimicrophone     (n) a small microphone used for recording
+minimicrophones    (n) plural of MINIMICROPHONE
+minimic            (n) clipping of MINIMICROPHONE
+minimics           (n) plural of MINIMIC
+minimike           (n) clipping of MINIMICROPHONE
+minimikes          (n) plural of MINIMIKE
+prequark           (n, particle physics) any hypothetical particle that forms the component parts of quarks
+prequarks          (n) plural of PREQUARK
+preon              (n, particle physics) any hypothetical particle that forms the component parts of quarks
+preons             (n) plural of PREON
+highwaywoman       (n) a female highwayman
+highwaywomen       (n) plural of HIGHWAYWOMAN
+backswordman       (n) one who fights with a backsword or singlestick
+backswordmen       (n) plural of BACKSWORDMAN
+backswordsman      (n) an alternative form of BACKSWORDMAN
+backswordsmen      (n) plural of BACKSWORDSMAN
+backswordwoman     (n) a female backswordman
+backswordwomen     (n) plural of BACKSWORDWOMAN
+backswordswoman    (n) an alternative form of BACKSWORDWOMAN
+backswordswomen    (n) plural of BACKSWORDSWOMAN
+coastguardwoman    (n) a female member of a coastguard
+coastguardwomen    (n) plural of COASTGUARDWOMAN
+coastguardswoman   (n) an alternative form of COASTGUARDWOMAN
+coastguardswomen   (n) plural of COASTGUARDSWOMAN
+cragsman           (n) a mountaineer
+cragsmen           (n) plural of CRAGSMAN
+cragswoman         (n) a female mountaineer
+cragswomen         (n) plural of CRAGSWOMAN
+woesearchaeota     (n) any archaea in the phylum Woesearchaeota
+pacearchaeota      (n) any archaea in the phylum Pacearchaeota
+failgirl           (n, slang) a girl of the trope within fiction of someone who cannot accomplish any task successfully
+failgirls          (n) plural of FAILGIRL
+failboy            (n, slang) a boy of the trope within fiction of someone who cannot accomplish any task successfully
+failboys           (n) plural of FAILBOY
+rando              (n, slang) any arbitrary person that one does not know or have a connection to
+randos             (n) plural of RANDO
+mangaka            (n, Japanese) a professional manga or anime artist or animator
+mangakas           (n) plural of MANGAKA
+manhwa             (n, Korean) a Korean comic or graphic novel, or the plural of MANHWA
+eggwhisk           (n) uncommon spelling of egg-whisk
+eggwhisks          (n) plural of EGGWHISK
+frownie            (n) a simplified drawing, emoticon, or other simple representation of a frowning face
+frownies           (n) plural of FROWNIE
+futurama           (n) a depiction of a (usually sensational) vision of the future
+futuramas          (n) plural of FUTURAMA
+tch                (interj) a representation of the dental click used to show disapproval, a tut or tsk
+tchs               (n) multiple clicks of disapproval
+technirho          (n, particle physics) a rho meson having multiple quantum colors
+technirhos         (n) plural of TECHNIRHO
+technihadron       (n, particle physics) a hadron having multiple quantum colors
+technihadrons      (n) plural of TECHNIHADRON
+teapotful          (n) an amount of liquid that can be held in a teapot
+teapotfuls         (n) plural of TEAPOTFUL
+teapotsful         (n) plural of TEAPOTFUL
+hiam               (adj, Singaporean) hot and spicy, of food
+coffeetree         (n) any of several small trees and shrubs native to the tropical Old World yielding coffee beans
+coffeetree         (n) plural of COFFEETREE
+abalienate         (v) to cause the alienation of someone or something
+abalienates        (v) conjugation of ABALIENATE
+abalienated        (v) conjugation of ABALIENATE
+abalienating       (v) conjugation of ABALIENATE
+abalienation       (n) the act of causing the alienation of someone or something
+abalienations      (n) plural of ABALIENATION
+abattle            (v) to fortify
+abattles           (v) conjugation of ABATTLE
+abattled           (v) conjugation of ABATTLE
+abattling          (v) conjugation of ABATTLE
+abattlement        (n) a fortification
+abattlements       (n) plural of ABATTLEMENT
+outcalculate       (v) to surpass or exceed in calculation, to calculate better than or faster than someone or something
+outcalculated      (v) conjugation of OUTCALCULATE
+outcalculates      (v) conjugation of OUTCALCULATE
+outcalculating     (v) conjugation of OUTCALCULATE
+unalive            (v, slang, euphemistic) to kill someone or to commit suicide
+unalives           (v) conjugation of UNALIVE
+unalived           (v) conjugation of UNALIVE
+unaliving          (v) conjugation of UNALIVE
+gadsbodikins       (interj) corruption of "God's bodkins", referring to the nails used in the crucifixion. often rendered as "ods bodikins"
+begorra            (interj, chiefly Irish) minced oath from alteration of "by God"  
+begorrah           (interj, chiefly Irish) minced oath from alteration of "by God"
+begorry            (interj, chiefly Irish) minced oath from alteration of "by God"
+umbego             (v) to go around (something)
+umbegoes           (v) conjugation of UMBEGO
+umbegone           (v) conjugation of UMBEGO
+umbewent           (v) conjugation of UMBEGO
+umbegoing          (v) conjugation of UMBEGO
+umbecast           (v) to cast or cover (something) in shadow; to shade
+umbecasts          (v) conjugation of UMBECAST
+umbecasting        (v) conjugation of UMBECAST
+umbeclap           (v) to embrace or enclose (something)
+umbeclaps          (v) conjugation of UMBECLAP
+umbeclapped        (v) conjugation of UMBECLAP
+umbeclapt          (v) conjugation of UMBECLAP
+umbeclapping       (v) conjugation of UMBECLAP
+umbedraw           (v) to turn (something) around, to rotate
+umbedraws          (v) conjugation of UMBEDRAW 
+umbedrawn          (v) conjugation of UMBEDRAW
+umbedrew           (v) conjugation of UMBEDRAW
+umbedrawing        (v) conjugation of UMBEDRAW
+umbegrip           (v) to grab tightly onto (something)
+umbegrips          (v) conjugation of UMBEGRIP
+umbegripped        (v) conjugation of UMBEGRIP
+umbegripping       (v) conjugation of UMBEGRIP
+umbegrippe         (v) an alternative spelling of UMBEGRIP
+umbegrippes        (v) conjugation of UMBEGRIPPE
+umbelap            (v) to enshround or cover up (something)
+umbelaps           (v) conjugation of UMBELAP
+umbelapped         (v) conjugation of UMBELAP
+umbelapt           (v) conjugation of UMBELAP
+umbelapping        (v) conjugation of UMBELAP
+umbelappe          (v) an alternative spelling of UMBELAP
+umbelappes         (v) conjugation of UMBELAPPE
+umbeschew          (v) to avoid (someone or something)
+umbeschews         (v) conjugation of UMBESCHEW
+umbeschewed        (v) conjugation of UMBESCHEW
+umbeschewing       (v) conjugation of UMBESCHEW
+umbeset            (v) to block or obstruct (something) from being built, assembled, or constructed
+umbesets           (v) conjugation of UMBESET
+umbesetten         (v) conjugation of UMBESET
+umbesetting        (v) conjugation of UMBESET
+umbethink          (v) to recall or bring to mind
+umbethinks         (v) conjugation of UMBETHINK
+umbethought        (v) conjugation of UMBETHINK
+umbethinking       (n) the sudden acting of remembering that which was thought to be forgotten
+umbethinkings      (n) plural of UMBETHINKING
+ratfinked          (v) conjugation of RATFINK
+ratfinking         (v) conjugation of RATFINK
+flaneur            (v, French) to wander aimlessly and casually
+flaneurs           (v) conjugation of FLANEUR
+flaneured          (v) conjugation of FLANEUR
+flaneuring         (v) conjugation of FLANEUR
+ethify             (v) to make or cause to make something to be (more) ethical
+ethifies           (v) conjugation of ETHIFY
+ethified           (v) conjugation of ETHIFY
+ethifying          (v) conjugation of ETHIFY
+equitize           (v) to divide an asset or group of assets among several investors
+equitizes          (v) conjugation of EQUITIZE
+equitized          (v) conjugation of EQUITIZE
+equitizing         (v) conjugation of EQUITIZE
+equitization       (n) the process of dividing an asset or group of assets among several investors
+equitizations      (n) plural of EQUITIZATION
+equitise           (v) an alternative spelling of EQUITIZE
+equitises          (v) conjugation of EQUITISE
+equitised          (v) conjugation of EQUITISE
+equitising         (v) conjugation of EQUITISE
+equitisation       (n) an alternative spelling of EQUITIZATION
+equitisations      (n) plural of EQUITISATION
+eright             (v) to invest or grant a right
+erights            (v) conjugation of ERIGHT
+erighted           (v) conjugation of ERIGHT
+erighting          (v) conjugation of ERIGHT
+ooch               (v) to exceed a limit by a small amount
+ooches             (v) conjugation of OOCH
+ooched             (v) conjugation of OOCH
+ooching            (v) conjugation of OOCH
+debamboozle        (v) to free from bamboozlement; to enlighten
+debamboozles       (v) conjugation of DEBAMBOOZLE
+debamboozled       (v) conjugation of DEBAMBOOZLE
+debamboozling      (v) conjugation of DEBAMBOOZLE
+opaquen            (v) to make opaque
+opaquens           (v) conjugation of OPAQUEN
+opaquened          (v) conjugation of OPAQUEN
+opaquening         (v) conjugation of OPAQUEN
+bracteose          (adj, botany) bracteate
+ouaouaron          (n, French/Wyandot) a bullfrog
+ouaouarons         (n) plural of OUAOUARON
+oxyarc             (n, welding) a welding arc produced in an atmosphere of oxygen
+oxyarcs            (n) plural of OXYARCS
+counterfaller      (n, engineering) a weight that opposes the fall of another weight, counteracting its movement
+counterfallers     (n) plural of COUNTERFALLER
+backster           (n) a baker
+backsters          (n) plural of BACKSTER
+backstress         (n) a female baker
+backstresses       (n) plural of BACKSTRESSES
+gyradius           (n, engineering) the radius of gyration
+gyradii            (n) plural of GYRADIUS
+jumbomania         (n) the public enthusiasm for Jumbo, an African elephant exhibited in France, England, and the United States
+kilopound          (n, chiefly American) a non-SI unit of force equal to 1,000 pounds-force (poundals)
+kilopounds         (n) plural of KILOPOUNDS
+octoid             (adj) (of a gear or gear tooth) having resemblence to or being of similar form to the involute
+tympana            (n) plural of TYMPANUM
+upshifter          (n) a machine, algorithm, or other process that shifts the frequency of some input to be higher
+upshifters         (n) plural of UPSHIFTERS
+waterfalled        (v) conjugation of WATERFALL
+waterfalling       (v) conjugation of WATERFALL
+azipod             (n) an engine and ships' propeller in an underslung pod that is azimuth-adjustable
+azipods            (n) plural of AZIPOD
+acockbill          (adv, nautical) (of a ship's anchor) ready to be let go
+babystay           (n, nautical) a stay just forward of the mast for support and bracing 
+babystays          (n) plural of BABYSTAY
+vworp              (onom) the (imagined) sound of teleportation
+baggywrinkles      (n) plural of BAGGYWRINKLE
+baggala            (n, Arabic) a two-masted sailing ship
+baggalas           (n) plural of BAGGALA
+baggalah           (n) an alternative spelling of BAGGALA
+baggalahs          (n) plural of BAGGALAH
+bahgla             (n) an alternative spelling of BAGGALA
+bahglas            (n) plural of BAHGLA
+buggalow           (n) an alternative spelling of BAGGALA
+buggalows          (n) plural of BUGGALOW
+baglo              (n) an alternative spelling of BAGGALA
+baglos             (n) plural of BAGLO
+beskozyrka         (n, Russian) a flat, visorless cap worn by Russian naval officers
+beskozyrki         (n) plural of BESKOZYRKA
+beskozyrkas        (n) plural of BESKOZYRKA
+eoenantiornithid   (n) any of the birds of the extinct family Eoenantiornithidae
+eoenantiornithids  (n) plural of EOENANTIORNITHID
+quahogger          (n) one who harvest quahogs
+quahoggers         (n) plural of QUAHOGGER
+xebeque            (n) a xebec
+xebeques           (n) plural of XEBEQUE
+xebecque           (n) a xebec
+xebecques          (n) plural of XEBECQUE
+zebecque           (n) a xebec
+zebecques          (n) plural of ZEBECQUE
+yarage             (n) (of a ship) maneuverability
+yarages            (n) plural of YARAGE
+kiwikiwi           (n) the plant Piper excelsum, a shrub endemic to New Zealand.
+kiwikiwis          (n) plural of KIWIKIWI
+moyai              (n) a moai
+reimiro            (n, Rapa Nui) a crescent-shaped pectoral ornament once worn by the women of Easter Island
+vyanjanabhakti     (n, linguistics) epenthesis of a consonant
+vyanjanabhaktis    (n) plural of VYANJANABHAKTI
+iktsuarpok         (n, Inuktitut) the feeling of anticipation while waiting for someone to arrive
+angakkuq           (n, Inuktitut) an Inuit shaman
+angakkuqs          (n) plural of ANGAKKUQ
+qaqqaq             (n, Greenlandic) a mountain or rocky outcropping
+quindecasyllabic   (adj) (of a word) having fifteen syllables
+iambelegus         (n, prosody) a verse consisting of an iambic dimeter and half an elegiac pentameter
+iambelegi          (n) plural of IAMBELEGUS
+ictusses           (n) plural of ICTUS
+janggi             (n) a Korean board game similar to chess; Korean chess
+changgi            (n) an alternative spelling of JANGGI
+xiangqi            (n) a Chinese board game similar to chess; Chinese chess
+chancla            (n) a kind of slipper
+chanclas           (n) plural of CHANCLA
+gochujang          (n) a fermented red chili paste common in Korean cooking
+gochujangs         (n) plural of GOCHUJANG
+wehrgeld           (n) in old Germanic law, the monetary value assigned to a person according to their rank and social status
+wehrgelds          (n) plural of WEHRGELD
+wer                (n) a man, a male
+wers               (n) men, males
+ketchuppier        (adj) declension of KETCHUPPY
+ketchuppiest       (adj) declension of KETCHUPPY
+ketchupped         (v) conjugation of KETCHUP
+ketchupping        (v) conjugation of KETCHUP
+katjap             (n) archaic spelling of KETCHUP
+katjaps            (n) plural of KATJAP
+ketjap             (n) archaic spelling of KETCHUP
+ketjaps            (n) plural of KETJAP
+esperantophone     (n) a speaker of Esperanto
+esperantophones    (n) plural of ESPERANTOPHONE
+outkitchen         (n) a field kitchen
+outkitchens        (n) plural of OUTKITCHEN
+
+REMOVALS:
+html               (abbr) an initialism of HyperText Markup Language, a psuedo-programming language used for displaying webpages, and usually styled HTML

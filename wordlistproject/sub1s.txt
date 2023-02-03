@@ -252,7 +252,7 @@ xhl SOXHLET:          (n) a Soxhlet extractor [a type of glassware used in chemi
 xih FLEXIHOURS:       (n) flexitime [an arrangement that allows employees to set their own working hours]
 xii TAXIING:          (v) the gerund form of taxi [to move an aircraft on the ground under its own power]
 xlo SEXLOCULAR:       (adj) of a plant, having six cells for seeds
-xls CACOMIXLS:        (n) plural of cacomixl [an alternative spelling of cacomistle [a catlike omnivorous mammal similar to a raccoon native to Mexico and nothern South America]]
+xls CACOMIXLS:        (n) plural of cacomixl [an alternative spelling of cacomistle [a catlike omnivorous mammal similar to a raccoon native to Mexico and Central America]]
 xni HOXNIAN:          (adj) of or related to Hoxne, a site in East Anglia of historical and archaeological importance to extinct animals in the British Isles
 xoh MIXOHALINE:       (adj) brackish [of water, very salty]
 xtd NEXTDOOR:         (adj) next-door; occupying an adjacent place, especially the building immediately to the left or right

@@ -54,6 +54,12 @@ abaft
 abaht
 abaka
 abakas
+abalienate
+abalienated
+abalienates
+abalienating
+abalienation
+abalienations
 abalone
 abalones
 abamp
@@ -78,6 +84,10 @@ abandonware
 abandonwares
 abands
 abapical
+abare
+abared
+abares
+abaring
 abas
 abase
 abased
@@ -118,6 +128,12 @@ abators
 abattis
 abattised
 abattises
+abattle
+abattled
+abattlement
+abattlements
+abattles
+abattling
 abattoir
 abattoirs
 abattu
@@ -2034,6 +2050,7 @@ acnodal
 acnode
 acnodes
 acock
+acockbill
 acoelomate
 acoelomates
 acoelous
@@ -9351,6 +9368,8 @@ anfractuosities
 anfractuosity
 anfractuous
 anga
+angakkuq
+angakkuqs
 angakok
 angakoks
 angareb
@@ -18586,6 +18605,8 @@ azine
 azines
 azione
 aziones
+azipod
+azipods
 azlon
 azlons
 azo
@@ -18851,6 +18872,8 @@ babysitter
 babysitters
 babysitting
 babysittings
+babystay
+babystays
 bac
 bacalao
 bacalaos
@@ -19286,6 +19309,8 @@ backstarting
 backstartings
 backstay
 backstays
+backster
+backsters
 backstitch
 backstitched
 backstitches
@@ -19302,6 +19327,8 @@ backstrap
 backstraps
 backstreet
 backstreets
+backstress
+backstresses
 backstretch
 backstretches
 backstroke
@@ -19321,6 +19348,10 @@ backswordmen
 backswords
 backswordsman
 backswordsmen
+backswordswoman
+backswordswomen
+backswordwoman
+backswordwomen
 backtalk
 backtalks
 backtrack
@@ -19586,6 +19617,10 @@ bagful
 bagfuls
 baggage
 baggages
+baggala
+baggalah
+baggalahs
+baggalas
 baggataway
 baggataways
 bagged
@@ -19604,6 +19639,7 @@ baggit
 baggits
 baggy
 baggywrinkle
+baggywrinkles
 bagh
 baghouse
 baghouses
@@ -19612,6 +19648,8 @@ bagie
 bagies
 bagless
 baglike
+baglo
+baglos
 bagman
 bagmen
 bagne
@@ -19654,6 +19692,8 @@ bahais
 bahaism
 bahamian
 bahamians
+bahgla
+bahglas
 bahookie
 bahookies
 bahraini
@@ -23438,6 +23478,7 @@ begorah
 begored
 begorra
 begorrah
+begorry
 begos
 begot
 begotten
@@ -24809,6 +24850,9 @@ besings
 besit
 besits
 besitting
+beskozyrka
+beskozyrkas
+beskozyrki
 beslave
 beslaved
 beslaver
@@ -31532,6 +31576,7 @@ bracted
 bracteolate
 bracteole
 bracteoles
+bracteose
 bractless
 bractlet
 bractlets
@@ -33966,6 +34011,8 @@ bugbear
 bugbears
 bugeye
 bugeyes
+buggalow
+buggalows
 buggan
 buggane
 bugganes
@@ -36120,6 +36167,8 @@ caffling
 caffs
 cafila
 cafilas
+cafiz
+cafizes
 cafs
 caftan
 caftaned
@@ -36168,6 +36217,10 @@ cagyness
 cagynesses
 cahier
 cahiers
+cahiz
+cahizada
+cahizadas
+cahizes
 cahoot
 cahoots
 cahoun
@@ -42529,6 +42582,8 @@ chancily
 chanciness
 chancinesses
 chancing
+chancla
+chanclas
 chancre
 chancres
 chancroid
@@ -42585,6 +42640,7 @@ changers
 changes
 changeup
 changeups
+changgi
 changing
 changs
 chank
@@ -49167,6 +49223,10 @@ coastguardmen
 coastguards
 coastguardsman
 coastguardsmen
+coastguardswoman
+coastguardswomen
+coastguardwoman
+coastguardwomen
 coasting
 coastings
 coastland
@@ -50044,6 +50104,8 @@ coffeemakers
 coffeepot
 coffeepots
 coffees
+coffeetree
+coffeetrees
 coffer
 cofferdam
 cofferdams
@@ -58170,6 +58232,8 @@ counterexample
 counterexamples
 counterfactual
 counterfactuals
+counterfaller
+counterfallers
 counterfect
 counterfeisance
 counterfeit
@@ -89547,6 +89611,8 @@ eoan
 eobiont
 eobionts
 eocene
+eoenantiornithid
+eoenantiornithids
 eohippus
 eohippuses
 eolian
@@ -90697,6 +90763,18 @@ equitation
 equitations
 equites
 equities
+equitisation
+equitisations
+equitise
+equitised
+equitises
+equitising
+equitization
+equitizations
+equitize
+equitized
+equitizes
+equitizing
 equity
 equivalence
 equivalences
@@ -90933,6 +91011,10 @@ eridani
 eriff
 erigeron
 erigerons
+eright
+erighted
+erighting
+erights
 erinaceous
 erineum
 ering
@@ -91510,6 +91592,8 @@ esperances
 esperantist
 esperantists
 esperanto
+esperantophone
+esperantophones
 espial
 espials
 espied
@@ -92039,6 +92123,10 @@ ethide
 ethides
 ethidia
 ethidium
+ethified
+ethifies
+ethify
+ethifying
 ethinyl
 ethinyls
 ethion
@@ -96224,7 +96312,11 @@ faikes
 faiking
 faiks
 fail
+failboy
+failboys
 failed
+failgirl
+failgirls
 failing
 failingly
 failings
@@ -100884,6 +100976,8 @@ flanerie
 flaneries
 flanes
 flaneur
+flaneured
+flaneuring
 flaneurs
 flange
 flanged
@@ -106324,7 +106418,9 @@ frown
 frowned
 frowner
 frowners
+frownie
 frownier
+frownies
 frowniest
 frowning
 frowningly
@@ -107509,6 +107605,8 @@ futsals
 futtock
 futtocks
 futural
+futurama
+futuramas
 future
 futureless
 futurelessness
@@ -107719,6 +107817,7 @@ gadrooning
 gadroonings
 gadroons
 gads
+gadsbodikins
 gadsman
 gadsmen
 gadso
@@ -118093,6 +118192,8 @@ gypsyisms
 gypsylike
 gypsywort
 gypsyworts
+gyradii
+gyradius
 gyral
 gyrally
 gyrant
@@ -123791,6 +123892,7 @@ heyem
 heying
 heys
 hi
+hiam
 hiant
 hiaqua
 hiatal
@@ -124161,6 +124263,8 @@ highway
 highwayman
 highwaymen
 highways
+highwaywoman
+highwaywomen
 highwrought
 hijab
 hijabs
@@ -130453,6 +130557,8 @@ hythes
 hytrel
 i
 iamb
+iambelegi
+iambelegus
 iambi
 iambic
 iambically
@@ -130785,6 +130891,7 @@ icteruses
 ictic
 ictus
 ictuses
+ictusses
 icy
 id
 idahoan
@@ -131234,6 +131341,7 @@ ikkinesses
 ikky
 ikon
 ikons
+iktsuarpok
 ilea
 ileac
 ileal
@@ -142782,6 +142890,7 @@ jandals
 jane
 janes
 jangada
+janggi
 jangle
 jangled
 jangler
@@ -144805,6 +144914,7 @@ jumboize
 jumboized
 jumboizes
 jumboizing
+jumbomania
 jumbos
 jumbuck
 jumbucks
@@ -145263,6 +145373,8 @@ kafir
 kafiri
 kafiris
 kafirs
+kafiz
+kafizes
 kafkaesque
 kafs
 kaftan
@@ -145926,6 +146038,8 @@ kations
 katipo
 katipos
 katis
+katjap
+katjaps
 katjiepiering
 katonkel
 katorga
@@ -146588,6 +146702,10 @@ ketchup
 ketchupier
 ketchupiest
 ketchuplike
+ketchupped
+ketchuppier
+ketchuppiest
+ketchupping
 ketchuppy
 ketchups
 ketchupy
@@ -146598,6 +146716,8 @@ ketes
 kethib
 ketimine
 ketimines
+ketjap
+ketjaps
 ketmia
 ketmias
 keto
@@ -147259,6 +147379,8 @@ kilopascal
 kilopascals
 kilopond
 kiloponds
+kilopound
+kilopounds
 kilorad
 kilorads
 kilos
@@ -147814,6 +147936,8 @@ kiwanis
 kiwi
 kiwifruit
 kiwifruits
+kiwikiwi
+kiwikiwis
 kiwis
 kiwisports
 kkoktu
@@ -160909,6 +161033,8 @@ mangabey
 mangabeys
 mangabies
 mangaby
+mangaka
+mangakas
 mangal
 mangals
 mangalsutra
@@ -160996,6 +161122,7 @@ manhunt
 manhunter
 manhunters
 manhunts
+manhwa
 mani
 mania
 maniac
@@ -168981,6 +169108,12 @@ minimaxes
 minimaxing
 miniment
 miniments
+minimic
+minimicrophone
+minimicrophones
+minimics
+minimike
+minimikes
 minimill
 minimills
 minimisation
@@ -175030,6 +175163,7 @@ moxie
 moxies
 moy
 moya
+moyai
 moyas
 moyen
 moygashel
@@ -186759,6 +186893,8 @@ oceloid
 ocelot
 ocelots
 och
+ochava
+ochavas
 oche
 ocher
 ochered
@@ -186950,6 +187086,7 @@ octohedra
 octohedron
 octohedrons
 octoic
+octoid
 octonal
 octonarian
 octonarians
@@ -188573,6 +188710,10 @@ oobit
 oobits
 oobleck
 ooblecks
+ooch
+ooched
+ooches
+ooching
 oocyst
 oocysts
 oocyte
@@ -188778,8 +188919,12 @@ opankas
 opaque
 opaqued
 opaquely
+opaquen
+opaquened
 opaqueness
 opaquenesses
+opaquening
+opaquens
 opaquer
 opaques
 opaquest
@@ -191052,6 +191197,8 @@ ouakari
 ouakaris
 ouananiche
 ouananiches
+ouaouaron
+ouaouarons
 oubaas
 oubaases
 oubit
@@ -191399,6 +191546,10 @@ outbuying
 outbuys
 outby
 outbye
+outcalculate
+outcalculated
+outcalculates
+outcalculating
 outcall
 outcalled
 outcalling
@@ -192084,6 +192235,8 @@ outkiss
 outkissed
 outkisses
 outkissing
+outkitchen
+outkitchens
 outknit
 outknits
 outknitted
@@ -196737,6 +196890,8 @@ oxyacid
 oxyacids
 oxyanion
 oxyanions
+oxyarc
+oxyarcs
 oxybaphon
 oxybromide
 oxybromides
@@ -196948,6 +197103,7 @@ pacation
 pacations
 pacay
 pace
+pacearchaeota
 paced
 pacemaker
 pacemakers
@@ -213619,6 +213775,8 @@ polltaker
 polltakers
 pollucite
 pollucites
+pollum
+pollums
 pollusion
 pollusions
 pollutant
@@ -219077,6 +219235,8 @@ prequalified
 prequalifies
 prequalify
 prequalifying
+prequark
+prequarks
 prequel
 prequels
 prerace
@@ -226204,6 +226364,8 @@ qabalistically
 qabalists
 qadi
 qadis
+qafiz
+qafizes
 qaid
 qaids
 qaimaqam
@@ -226220,6 +226382,7 @@ qanun
 qanuns
 qapik
 qapiks
+qaqqaq
 qaraqalpaq
 qari
 qaris
@@ -226546,6 +226709,8 @@ quags
 quahaug
 quahaugs
 quahog
+quahogger
+quahoggers
 quahogs
 quai
 quaich
@@ -227463,6 +227628,7 @@ quindecagon
 quindecagons
 quindecaplet
 quindecaplets
+quindecasyllabic
 quindecemvir
 quindecennial
 quindecennials
@@ -229266,6 +229432,7 @@ randjie
 randkluft
 randlord
 randlords
+rando
 random
 randomisation
 randomisations
@@ -229291,6 +229458,7 @@ randomwise
 randon
 randons
 randori
+randos
 rands
 randy
 ranee
@@ -229779,6 +229947,8 @@ rater
 raters
 rates
 ratfink
+ratfinked
+ratfinking
 ratfinks
 ratfish
 ratfishes
@@ -234572,6 +234742,7 @@ reimburser
 reimbursers
 reimburses
 reimbursing
+reimiro
 reimmerse
 reimmersed
 reimmerses
@@ -275698,6 +275869,15 @@ subprojects
 subproletariat
 subproletariats
 subpubic
+subqualities
+subquality
+subquantum
+subquark
+subquarks
+subqueries
+subquery
+subquestion
+subquestions
 subrace
 subraces
 subrational
@@ -279587,6 +279767,8 @@ sveltest
 sven
 svengali
 svengalis
+sverdrup
+sverdrups
 svetambara
 svetambaras
 swab
@@ -284234,6 +284416,7 @@ tazing
 tazza
 tazzas
 tazze
+tch
 tcha
 tchagra
 tchagras
@@ -284248,6 +284431,7 @@ tchotchke
 tchotchkes
 tchoukball
 tchoukballs
+tchs
 te
 tea
 teabag
@@ -284338,7 +284522,10 @@ teamwork
 teamworks
 teanel
 teapot
+teapotful
+teapotfuls
 teapots
+teapotsful
 teapoy
 teapoys
 tear
@@ -284504,10 +284691,14 @@ technics
 technicum
 technification
 technifications
+technihadron
+technihadrons
 technikon
 technikons
 technique
 techniques
+technirho
+technirhos
 techno
 technobabble
 technobabbles
@@ -299544,7 +299735,37 @@ umayyad
 umayyads
 umbanda
 umbe
+umbecast
+umbecasting
+umbecasts
+umbeclap
+umbeclapped
+umbeclapping
+umbeclaps
+umbeclapt
+umbedraw
+umbedrawing
+umbedrawn
+umbedraws
+umbedrew
+umbego
+umbegoes
+umbegoing
+umbegone
+umbegrip
+umbegrippe
+umbegripped
+umbegrippes
+umbegripping
+umbegrips
 umbel
+umbelap
+umbelappe
+umbelapped
+umbelappes
+umbelapping
+umbelaps
+umbelapt
 umbeled
 umbella
 umbellae
@@ -299572,6 +299793,20 @@ umberiest
 umbering
 umbers
 umbery
+umbeschew
+umbeschewed
+umbeschewing
+umbeschews
+umbeset
+umbesets
+umbesetten
+umbesetting
+umbethink
+umbethinking
+umbethinkings
+umbethinks
+umbethought
+umbewent
 umbilic
 umbilical
 umbilically
@@ -299880,6 +300115,9 @@ unalike
 unalist
 unalists
 unalive
+unalived
+unalives
+unaliving
 unallayed
 unalleged
 unalleviated
@@ -309552,6 +309790,8 @@ upsey
 upseys
 upshift
 upshifted
+upshifter
+upshifters
 upshifting
 upshifts
 upshoot
@@ -315866,6 +316106,9 @@ vuttiest
 vutty
 vuvuzela
 vuvuzelas
+vworp
+vyanjanabhakti
+vyanjanabhaktis
 vygie
 vygies
 vying
@@ -317372,6 +317615,8 @@ watered
 waterer
 waterers
 waterfall
+waterfalled
+waterfalling
 waterfalls
 waterfinder
 waterfinders
@@ -318272,6 +318517,8 @@ wefting
 wefts
 weftwise
 wegotism
+wehrgeld
+wehrgelds
 wehrlite
 weichsel
 weichselian
@@ -318525,6 +318772,7 @@ wentletrap
 wentletraps
 wents
 wept
+wer
 were
 weregild
 weregilds
@@ -318550,6 +318798,7 @@ weros
 werowance
 werris
 werrises
+wers
 wersh
 wersher
 wershest
@@ -321137,6 +321386,7 @@ woegeousnesses
 woeness
 woenesses
 woes
+woesearchaeota
 woesome
 wof
 wofs
@@ -322631,7 +322881,11 @@ xanthoxyl
 xanthoxyls
 xebec
 xebecks
+xebecque
+xebecques
 xebecs
+xebeque
+xebeques
 xed
 xenarthra
 xenarthral
@@ -322815,6 +323069,7 @@ xhosa
 xhosas
 xi
 xiang
+xiangqi
 xiphihumeralis
 xiphiplastra
 xiphiplastral
@@ -323173,6 +323428,8 @@ yaqonas
 yaqui
 yaquis
 yar
+yarage
+yarages
 yarak
 yaraks
 yarborough
@@ -324526,6 +324783,8 @@ zeaxanthins
 zebec
 zebeck
 zebecks
+zebecque
+zebecques
 zebecs
 zebra
 zebrafish
