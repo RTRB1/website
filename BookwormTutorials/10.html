@@ -1,371 +1,336 @@
 <!DOCTYPE html>
-<meta name="viewport" content="width=device-width, initial-scale=1.0"> 
 <html lang="en">
+
 <head>
 	<meta charset="utf-8">
 	<title>Bookworm Tutorials</title>
-	<link rel="shortcut icon" type="image/jpg" href="../rtrb_pfp_full_size.jpg"/>
-	
+	<link rel="shortcut icon" type="image/jpg" href="rtrb_pfp_full_size.jpg"/>
 	<style>
-	.grid-container {
-		display: grid;
-		gap: 7px;
-		background-color: #333;
-		padding: 7px;
-	}
-
-	.grid-item {
-		background-color: rgba(255, 255, 255, 1.0);
-		text-align: center;
-		padding: 5px;
-		font-size: 30px;
-		font-family:helvetica;
-	}
-	
-	.grid-item-main {
-		background-color: rgba(255, 255, 255, 1.0);
-		text-align: center;
-		padding: 25px;
-		font-size: 30px;
-		font-family:helvetica;
-	}
-
-	.item1 {
-		grid-column: 1 / span 2;
-		grid-row: 1;
-	}
-	.item2 {
-		grid-column: 1 / span 2;
-		grid-row: 4;
-	}
-	.item3{
-		grid-column: 1 / span 2;
-		grid-row: 2;
-	}
-	.item4{
-		grid-column: 1 / span 2;
-		grid-row: 3;
-	}
 	.inline-block {
 		display: inline-block;
-		margin-right: -0px;
+		margin-right: 0px;
 	}
-	
-	h1 {
-		font-size:75px;
-		text-align:center;
-		font-family:'cooper black';
-		color:#4bb848;
-	}
-	
-	p {
-		text-align:left;
-		color:black";
-		font-family:helvetica;
-	}
-	
-	
 	</style>
 </head>
 
-<body style="background-color:#187637;">
-	<div class="grid-container">
-		<div class="grid-item item1">
-			<h1 style="font-size:calc(32px + 2vw);">Tutorial: Bookworm Basics</h1>
-		</div>
-		<div class="grid-item-main item3">
-			<p>Notation and Naming Conventions</p>
-			<p style="font-size:18px;">
-				Because this is a game primarily about spelling words, it is useful to distiguish between a word being written for
-				communication purposes and a word that is being talked about as a word to be spelled, which will be written in ALL-CAPS.
-				For most parts of these tutorials, if a word is being spelled, there will either be a screenshot from the game or it will
-				be spelled out using the tiles. However, the all-caps convention is preferred and more convenient in most places,
-				such as the discord server or twitch chat to distinguish words to spell from words in conversations.
-			</p>
-			<p>Controls</p>
-			<p style="font-size:18px;">
-				The game is primarily mouse-driven, but there are five actions that can be controlled by the keyboard:<br>
-			</p>
-			<p style="font-size:18px;text-indent:2em">
-				Health potion: Controlled with the [1] key.
-			</p>
-			<p style="font-size:18px;text-indent:2em">
-				Power-up potion: Controlled with the [2] key.
-			</p>
-			<p style="font-size:18px;text-indent:2em">
-				Purify potion: Controlled with the [3] key.
-			</p>
-			<p style="font-size:18px;text-indent:2em">
-				Submit word: Controlled with the [4] or [enter] keys.
-			</p>
-			<p style="font-size:18px;text-indent:2em">
-				Pause/Unpause: Controlled by the [space] key.
-			</p>
-			<p style="font-size:18px;">
-				There is no way to open the menu or scramble using the keyboard.
-			</p>
-			<p>Letter Damage</p>
-			<p style="font-size:18px;">
-				Damage in Bookworm works on a combined length and letter rarity system. Longer words are worth more,
-				but words with rare letters also get a boost. Knowing approximately how many "equivalent letters" (number of
-				letters plus any additional bonuses from letters) is very important to getting gems and dealing damage to enemies
-				overall. The amount that each letter is worth and when is listed below. 
-			</p>
-			<p style="font-size:18px;">
-				All bronze letters add 0.0 letters to the length of the word.
-			</p>
-			<!-- Bronze Letters -->
-			<div style="text-align:left">
-				<div class="inline-block">
-					<img src ="../tiles/tile_a.png">
-				</div><div class="inline-block">
-					<img src ="../tiles/tile_d.png">
-				</div><div class="inline-block">
-					<img src ="../tiles/tile_e.png">
-				</div><div class="inline-block">
-					<img src ="../tiles/tile_g.png">
-				</div><div class="inline-block">
-					<img src ="../tiles/tile_i.png">
-				</div><div class="inline-block">
-					<img src ="../tiles/tile_l.png">
-				</div><div class="inline-block">
-					<img src ="../tiles/tile_n.png">
-				</div><div class="inline-block">
-					<img src ="../tiles/tile_o.png">
-				</div><div class="inline-block">
-					<img src ="../tiles/tile_r_bronze.png">
-				</div><div class="inline-block">
-					<img src ="../tiles/tile_s.png">
-				</div><div class="inline-block">
-					<img src ="../tiles/tile_t.png">
-				</div><div class="inline-block">
-					<img src ="../tiles/tile_u.png">
-				</div>
-			</div>
-			<!-- End of Bronze Letters -->
-			<p style="font-size:18px;">
-				Silver letters are in two tiers, where some are worth slightly more than the others.
-				These silver letters add 0.25 letters to the length of the word.
-			</p>
-			<!-- Silver I Letters -->
-			<div style="text-align:left">
-				<div class="inline-block">
-					<img src ="../tiles/tile_b.png">
-				</div><div class="inline-block">
-					<img src ="../tiles/tile_c.png">
-				</div><div class="inline-block">
-					<img src ="../tiles/tile_h.png">
-				</div><div class="inline-block">
-					<img src ="../tiles/tile_m.png">
-				</div><div class="inline-block">
-					<img src ="../tiles/tile_p.png">
-				</div>
-			</div>
-			<!-- End of Silver I Letters -->
-			<p style="font-size:18px;">
-				These silver letters add 0.5 letters to the length of the word.
-				Notice that the Y will only be +0.5 in level 1.1, before acquiring the Bow of Zyx or the Arch of Xyzzy.
-			</p>
-			<!-- Silver II Letters -->
-			<div style="text-align:left">
-				<div class="inline-block">
-					<img src ="../tiles/tile_v.png">
-				</div><div class="inline-block">
-					<img src ="../tiles/tile_w.png">
-				</div><div class="inline-block">
-					<img src ="../tiles/tile_y_silver.png">
-				</div>
-			</div>
-			<!-- End of Silver II Letters -->
-			<p style="font-size:18px;">
-				Gold tiles are varied, are a just a catch-all for any amount that gets added more than +0.5.
-				These tiles add +0.75 each.
-			</p>
-			<!-- Gold I Letters -->
-			<div style="text-align:left">
-				<div class="inline-block">
-					<img src ="../tiles/tile_j.png">
-				</div><div class="inline-block">
-					<img src ="../tiles/tile_k.png">
-				</div>
-			</div>
-			<!-- End of Gold I Letters -->
-			<p style="font-size:18px;">
-				These tiles add +1.0 each. For X and Z, this only happens in 1.1, just like the silver Y tile, since 
-				they get boosted by the Bow and Arch after that. On the other hand, the R only becomes +1.0 once the 
-				parrot is acquired.
-			</p>
-			<!-- Gold II Letters -->
-			<div style="text-align:left">
-				<div class="inline-block">
-					<img src ="../tiles/tile_r_gold.png">
-				</div><div class="inline-block">
-					<img src ="../tiles/tile_x.png">
-				</div><div class="inline-block">
-					<img src ="../tiles/tile_z.png">
-				</div>
-			</div>
-			<!-- End of Gold II Letters -->
-			<p style="font-size:18px;">
-				These tiles add +1.5 each. This is only for 1.2 to 1.7, when you have the Bow of Zyx.
-			</p>
-			<!-- Gold III Letters -->
-			<div style="text-align:left">
-				<div class="inline-block">
-					<img src ="../tiles/tile_x.png">
-				</div><div class="inline-block">
-					<img src ="../tiles/tile_y_gold.png">
-				</div><div class="inline-block">
-					<img src ="../tiles/tile_z.png">
-				</div>
-			</div>
-			<!-- End of Gold III Letters -->
-			<p style="font-size:18px;">
-				The Qu tile is special in that is it worth +1.75. For all purposes it is considered two letters on one tile,
-				so it can be thought of as a Q worth 1.75 total letters (like a J or K) combined with a free U
-				worth 1.0 total letters. The way that it's in one tile obscures this though.
-			</p>
-			<!-- Gold IV Letters -->
-			<div style="text-align:left">
-				<div class="inline-block">
-					<img src ="../tiles/tile_q.png">
-				</div>
-			</div>
-			<!-- End of Gold IV Letters -->
-			<p style="font-size:18px;">
-				Once you have the Arch of Xyzzy for 1.8 and beyond, all X's, Y's, and Z's are +2.0 each.
-			</p>
-			<!-- Gold V Letters -->
-			<div style="text-align:left">
-				<div class="inline-block">
-					<img src ="../tiles/tile_x.png">
-				</div><div class="inline-block">
-					<img src ="../tiles/tile_y_gold.png">
-				</div><div class="inline-block">
-					<img src ="../tiles/tile_z.png">
-				</div>
-			</div>
-			<!-- End of Gold V Letters -->
-			<p style="font-size:18px;">
-				When all letter bonuses are summer together, this gives the "equivalent length" or "equivalent letters"
-				of a word (EL). Additionally, Bookworm only works with integer numbers of letters when calculating damage,
-				so it must round after calculating the EL of a word. This is rounded with a bias towards rounding up on halves,
-				so a word with an EQ of 8.25 will get rounded down to 8, 8.5 EQ gets rounded up to 9.0.
-			</p>
-			<p>Letter Damage Examples</p>
-			<p style="font-size:18px;">
-				These examples are here just to clarify further how the letter bonuses are applied.
-				If the Bow of Zyx, Arch of Xyzzy, or Wooden Parrot are being used, that will be indicated.
-			</p>
-			<p style="font-size:22px;">Example 1: JUMPING</p>
+<body style="background-color:#b7cbed">
+<h5>
+<a href="/BookwormAdventures.html">
+Back
+</a>
+</h5>
 
-			<!-- JUMPING -->
-			<div style="text-align:left">
-				<div class="inline-block">
-					<img src ="../tiles/tile_j.png">
-				</div><div class="inline-block">
-					<img src ="../tiles/tile_u.png">
-				</div><div class="inline-block">
-					<img src ="../tiles/tile_m.png">
-				</div><div class="inline-block">
-					<img src ="../tiles/tile_p.png">
-				</div><div class="inline-block">
-					<img src ="../tiles/tile_i.png">
-				</div><div class="inline-block">
-					<img src ="../tiles/tile_n.png">
-				</div><div class="inline-block">
-					<img src ="../tiles/tile_g.png">
-				</div>
-			</div>
-			<!-- End of JUMPING -->
-			<p style="font-size:18px;">
-				The number of tiles is 7 so:<br>
-				7 + 0.75 (J) + 0.25 (M) + 0.25 (P) = 8.25 EL which rounds down to 8.
-			</p>
-			<p style="font-size:18px;">
-				The tiles that add nothing to the EL are intentionally left out for legibility reasons.
-			</p>
-			<p style="font-size:22px;">Example 2: ADVENTURES (with Wooden Parrot)</p>
+<h1>
+Bookworm Basics
+</h1>
+<hr>
 
-			<!-- ADVENTURES -->
-			<div style="text-align:left">
-				<div class="inline-block">
-					<img src ="../tiles/tile_a.png">
-				</div><div class="inline-block">
-					<img src ="../tiles/tile_d.png">
-				</div><div class="inline-block">
-					<img src ="../tiles/tile_v.png">
-				</div><div class="inline-block">
-					<img src ="../tiles/tile_e.png">
-				</div><div class="inline-block">
-					<img src ="../tiles/tile_n.png">
-				</div><div class="inline-block">
-					<img src ="../tiles/tile_t.png">
-				</div><div class="inline-block">
-					<img src ="../tiles/tile_u.png">
-				</div><div class="inline-block">
-					<img src ="../tiles/tile_r_gold.png">
-				</div><div class="inline-block">
-					<img src ="../tiles/tile_e.png">
-				</div><div class="inline-block">
-					<img src ="../tiles/tile_s.png">
-				</div>
-			</div>
-			<!-- End of ADVENTURES -->
-			<p style="font-size:18px;">
-				The number of tiles is 10 so:<br>
-				10 + 0.5 (V) + 1.0 (R) = 11.5 EL which rounds up to 12.
-			</p>
-			<p style="font-size:22px;">Example 3: EXEQUY (Arch of Xyzzy)</p>
+<h2>
+Notation and Naming Conventions
+</h2>
+<p>
+Because this is a game primarily about spelling words, it is useful to distiguish between a word
+being written for communication purposes and a word that is being talked about as a word to be
+spelled, which will be written in ALLCAPS. For most parts of these tutorials, if a word is being
+spelled, there will either be a screenshot from the game or it will be spelled out using the tiles.
+However, the all-caps convention is preferred and more convenient in most places, such as the
+discord server or twitch chat to distinguish words to spell from words in conversations.
+</p>
+<hr>
 
-			<!-- EXEQUY -->
-			<div style="text-align:left">
-				<div class="inline-block">
-					<img src ="../tiles/tile_e.png">
-				</div><div class="inline-block">
-					<img src ="../tiles/tile_x.png">
-				</div><div class="inline-block">
-					<img src ="../tiles/tile_e.png">
-				</div><div class="inline-block">
-					<img src ="../tiles/tile_q.png">
-				</div><div class="inline-block">
-					<img src ="../tiles/tile_y_gold.png">
-				</div>
-			</div>
-			<!-- End of ADVENTURES -->
-			<p style="font-size:18px;">
-				The number of tiles is 5 so:<br>
-				5 + 2.0 (X) + 1.75 (Qu) + 2.0 (Y) = 10.75 EL which rounds up to 11.
-			</p>
-			<p>Gems</p>
-			<p style="font-size:18px;">
-				The type of gem is based of the equivalent length a word. However, the gem calculation is done
-				<i>before</i> the game rounds the EL, and the cutoffs for what type of gem is granted based on the length
-				is offset from where the game rounds the EL, so words with different final damages can give the same type of gem. For gems, the EL is always rounded up.
-			</p>
-			<p style="font-size:22px;">Gem Cutoffs</p>
-			<p style="font-size:18px;">
-				No gem: 0.0 to 5.0 EL<br>
-				Amethyst: 5.25 to 6.0 EL<br>
-				Emerald: 6.25 to 7.0 EL<br>
-				Garnet: 7.25 to 8.0 EL<br>
-				Sapphire: 8.25 to 9.0 EL<br>
-				Ruby: 9.25 to 10.0 EL<br>
-				Crystal: 10.25 to 11.0 EL<br>
-				Diamond: 11.25 to 12.0 EL<br>
-			</p>
-		</div>
-		<div class="grid-item item4">
-			<p style="font-size:24px;text-align:center">
-				<a href="https://rtrb.org/BookwormAdventures.html">
-				Go back
-				</a>
-			</p>
-		</div>
-		<div class="grid-item item2" style="font-size:16px;font-family:'times new roman'">
-			<p style="text-align:center"><a href="https://rtrb.org">rtrb.org</a></p>
-			<p style="text-align:center">rtrb#2888 on discord</p>
-		</div>
+<h2>
+Controls
+</h2>
+<p>
+The game is primarily mouse-driven, but there are five actions that can be controlled by the
+keyboard:
+</p>
+<ul>
+<li> Health potion: Controlled with the [1] key. </li>
+<li> Power-up potion: Controlled with the [2] key. </li>
+<li> Purify potion: Controlled with the [3] key. </li>
+<li> Submit word: Controlled with the [4] or [enter] keys. [Enter] can also be used on the chapter
+select screen to enter that chapter.</li>
+<li> Pause/Unpause: Controlled by the [space] key. </li>
+</ul>
+<p>
+There is no way to open the menu or scramble using the keyboard.
+</p>
+<hr>
+
+<h2>
+Letter Damage
+</h2>
+<p>
+Damage in Bookworm works on a combined length and letter rarity system. Longer words are worth more,
+but words with rare letters also get a boost. Knowing approximately how many "equivalent letters"
+(number of letters plus any additional bonuses from letters) is very important to getting gems and
+dealing damage to enemies overall. The amount that each letter is worth and when is listed below. 
+</p>
+<p>
+All bronze letters add 0.0 letters to the length of the word.
+</p>
+<!-- Bronze Letters -->
+<div>
+	<div class="inline-block">
+		<img src ="tiles/tile_a.png">
+	</div><div class="inline-block">
+		<img src ="tiles/tile_d.png">
+	</div><div class="inline-block">
+		<img src ="tiles/tile_e.png">
+	</div><div class="inline-block">
+		<img src ="tiles/tile_g.png">
+	</div><div class="inline-block">
+		<img src ="tiles/tile_i.png">
+	</div><div class="inline-block">
+		<img src ="tiles/tile_l.png">
+	</div><div class="inline-block">
+		<img src ="tiles/tile_n.png">
+	</div><div class="inline-block">
+		<img src ="tiles/tile_o.png">
+	</div><div class="inline-block">
+		<img src ="tiles/tile_r_bronze.png">
+	</div><div class="inline-block">
+		<img src ="tiles/tile_s.png">
+	</div><div class="inline-block">
+		<img src ="tiles/tile_t.png">
+	</div><div class="inline-block">
+		<img src ="tiles/tile_u.png">
 	</div>
+</div>
+<!-- End of Bronze Letters -->
+<p>
+Silver letters are in two tiers, where some are worth slightly more than the others. These silver
+letters add 0.25 letters to the length of the word.
+</p>
+<!-- Silver I Letters -->
+<div>
+	<div class="inline-block">
+		<img src ="tiles/tile_b.png">
+	</div><div class="inline-block">
+		<img src ="tiles/tile_c.png">
+	</div><div class="inline-block">
+		<img src ="tiles/tile_h.png">
+	</div><div class="inline-block">
+		<img src ="tiles/tile_m.png">
+	</div><div class="inline-block">
+		<img src ="tiles/tile_p.png">
+	</div>
+</div>
+<!-- End of Silver I Letters -->
+<p>
+These silver letters add 0.5 letters to the length of the word. Notice that the Y will only be +0.5
+in level 1.1, before acquiring the Bow of Zyx or the Arch of Xyzzy.
+</p>
+<!-- Silver II Letters -->
+<div>
+	<div class="inline-block">
+		<img src ="tiles/tile_v.png">
+	</div><div class="inline-block">
+		<img src ="tiles/tile_w.png">
+	</div><div class="inline-block">
+		<img src ="tiles/tile_y_silver.png">
+	</div>
+</div>
+<!-- End of Silver II Letters -->
+<p>
+Gold tiles are varied, are a just a catch-all for any amount that gets added more than +0.5. These
+tiles add +0.75 each.
+</p>
+<!-- Gold I Letters -->
+<div>
+	<div class="inline-block">
+		<img src ="tiles/tile_j.png">
+	</div><div class="inline-block">
+		<img src ="tiles/tile_k.png">
+	</div>
+</div>
+<!-- End of Gold I Letters -->
+<p>
+These tiles add +1.0 each. For X and Z, this only happens in 1.1, just like the silver Y tile, since 
+they get boosted by the Bow and Arch after that. On the other hand, the R only becomes +1.0 once the 
+parrot is acquired.
+</p>
+<!-- Gold II Letters -->
+<div>
+	<div class="inline-block">
+		<img src ="tiles/tile_r_gold.png">
+	</div><div class="inline-block">
+		<img src ="tiles/tile_x.png">
+	</div><div class="inline-block">
+		<img src ="tiles/tile_z.png">
+	</div>
+</div>
+<!-- End of Gold II Letters -->
+<p>
+These tiles add +1.5 each. This is only for 1.2 to 1.7, when you have the Bow of Zyx.
+</p>
+<!-- Gold III Letters -->
+<div>
+	<div class="inline-block">
+		<img src ="tiles/tile_x.png">
+	</div><div class="inline-block">
+		<img src ="tiles/tile_y_gold.png">
+	</div><div class="inline-block">
+		<img src ="tiles/tile_z.png">
+	</div>
+</div>
+<!-- End of Gold III Letters -->
+<p>
+The Qu tile is special in that is it worth +1.75. For all purposes it is considered two letters on
+one tile, so it can be thought of as a Q worth 1.75 total letters (like a J or K) combined with a
+free U worth 1.0 total letters. The way that it's in one tile obscures this though.
+</p>
+<!-- Gold IV Letters -->
+<div>
+	<div class="inline-block">
+		<img src ="tiles/tile_q.png">
+	</div>
+</div>
+<!-- End of Gold IV Letters -->
+<p>
+Once you have the Arch of Xyzzy for 1.8 and beyond, all X's, Y's, and Z's are +2.0 each.
+</p>
+<!-- Gold V Letters -->
+<div>
+	<div class="inline-block">
+		<img src ="tiles/tile_x.png">
+	</div><div class="inline-block">
+		<img src ="tiles/tile_y_gold.png">
+	</div><div class="inline-block">
+		<img src ="tiles/tile_z.png">
+	</div>
+</div>
+<!-- End of Gold V Letters -->
+<p>
+When all letter bonuses are summer together, this gives the "equivalent length" or "equivalent
+letters" of a word (EL). Additionally, Bookworm only works with integer numbers of letters when
+calculating damage, so it must round after calculating the EL of a word. This is rounded with a bias
+towards rounding up on halves, so a word with an EQ of 8.25 will get rounded down to 8, 8.5 EQ gets
+rounded up to 9.0. Almost all of the time examples and explanations will be done without rounding
+the EL at all, both for clarity and simplicity.
+</p>
+<h2>
+Letter Damage Examples
+</h2>
+<p>
+These examples are here just to clarify further how the letter bonuses are applied.
+If the Bow of Zyx, Arch of Xyzzy, or Wooden Parrot are being used, that will be indicated.
+The tiles that add nothing to the EL are intentionally left out for legibility reasons.
+</p>
+<h3>
+Example 1: JUMPING
+</h3>
+<!-- JUMPING -->
+<div>
+	<div class="inline-block">
+		<img src ="tiles/tile_j.png">
+	</div><div class="inline-block">
+		<img src ="tiles/tile_u.png">
+	</div><div class="inline-block">
+		<img src ="tiles/tile_m.png">
+	</div><div class="inline-block">
+		<img src ="tiles/tile_p.png">
+	</div><div class="inline-block">
+		<img src ="tiles/tile_i.png">
+	</div><div class="inline-block">
+		<img src ="tiles/tile_n.png">
+	</div><div class="inline-block">
+		<img src ="tiles/tile_g.png">
+	</div>
+</div>
+<!-- End of JUMPING -->
+<p>
+The number of tiles is 7 so:<br>
+7 + 0.75 (J) + 0.25 (M) + 0.25 (P) = 8.25 EL which rounds down to 8.
+</p>
+<!-- ADVENTURES -->
+<h3>
+Example 2: ADVENTURES (with Wooden Parrot)
+</h3>
+<div>
+	<div class="inline-block">
+		<img src ="tiles/tile_a.png">
+	</div><div class="inline-block">
+		<img src ="tiles/tile_d.png">
+	</div><div class="inline-block">
+		<img src ="tiles/tile_v.png">
+	</div><div class="inline-block">
+		<img src ="tiles/tile_e.png">
+	</div><div class="inline-block">
+		<img src ="tiles/tile_n.png">
+	</div><div class="inline-block">
+		<img src ="tiles/tile_t.png">
+	</div><div class="inline-block">
+		<img src ="tiles/tile_u.png">
+	</div><div class="inline-block">
+		<img src ="tiles/tile_r_gold.png">
+	</div><div class="inline-block">
+		<img src ="tiles/tile_e.png">
+	</div><div class="inline-block">
+		<img src ="tiles/tile_s.png">
+	</div>
+</div>
+<!-- End of ADVENTURES -->
+<p>
+The number of tiles is 10 so:<br>
+10 + 0.5 (V) + 1.0 (R) = 11.5 EL which rounds up to 12.
+</p>
+<h3>
+Example 3: EXEQUY (with Arch of Xyzzy)
+</h3>
+<!-- EXEQUY -->
+<div>
+	<div class="inline-block">
+		<img src ="tiles/tile_e.png">
+	</div><div class="inline-block">
+		<img src ="tiles/tile_x.png">
+	</div><div class="inline-block">
+		<img src ="tiles/tile_e.png">
+	</div><div class="inline-block">
+		<img src ="tiles/tile_q.png">
+	</div><div class="inline-block">
+		<img src ="tiles/tile_y_gold.png">
+	</div>
+</div>
+<!-- End of EXEQUY -->
+<p>
+The number of tiles is 5 so:<br>
+5 + 2.0 (X) + 1.75 (Qu) + 2.0 (Y) = 10.75 EL which rounds up to 11.
+</p>
+<hr>
+
+<h2>
+Gems
+</h2>
+<p>
+The type of gem is based of the equivalent length a word. However, the gem calculation is done
+<i>before</i> the game rounds the EL, and the cutoffs for what type of gem is granted based on the
+length is offset from where the game rounds the EL, so words with different final damages can give
+the same type of gem. For gems, the EL is always rounded up (constrast damage, which rounds EL
+normally).
+</p>
+<h3>
+Gem Cutoffs
+</h3>
+<ul>
+<li>No gem: 0.0 to 5.0 EL</li>
+<li>Amethyst: 5.25 to 6.0 EL</li>
+<li>Emerald: 6.25 to 7.0 EL</li>
+<li>Garnet: 7.25 to 8.0 EL</li>
+<li>Sapphire: 8.25 to 9.0 EL</li>
+<li>Ruby: 9.25 to 10.0 EL</li>
+<li>Crystal: 10.25 to 11.0 EL</li>
+<li>Diamond: 11.25 to 12.0 EL</li>
+</ul>
+<hr>
+
+<p>
+Discord: rtrb#2888. Not on any other social media.
+</p>
+<p>
+<i>&copy; 2023</i>
+</p>
+
 </body>
 </html>
