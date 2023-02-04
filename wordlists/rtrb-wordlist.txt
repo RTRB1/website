@@ -245,6 +245,7 @@ abelian
 abelias
 abelmosk
 abelmosks
+abelwhackets
 abenaki
 abenakis
 abend
@@ -393,6 +394,10 @@ abkhazian
 abkhazians
 ablactation
 ablactations
+ablaqueate
+ablaqueated
+ablaqueates
+ablaqueating
 ablate
 ablated
 ablates
@@ -424,6 +429,7 @@ ables
 ablest
 ablet
 ablets
+ablewhackets
 abling
 ablings
 ablins
@@ -779,6 +785,8 @@ abseys
 absinth
 absinthe
 absinthes
+absinthiana
+absinthianas
 absinthiated
 absinthism
 absinthisms
@@ -1161,6 +1169,8 @@ acauline
 acaulose
 acaulous
 acausal
+acavid
+acavids
 acca
 accable
 accadian
@@ -1656,6 +1666,11 @@ acentric
 acentrics
 acephalic
 acephalous
+acephobe
+acephobes
+acephobia
+acephobias
+acephobic
 acequia
 acequias
 acer
@@ -4295,6 +4310,8 @@ afghan
 afghani
 afghanis
 afghans
+afgod
+afgods
 aficionada
 aficionadas
 aficionado
@@ -5793,6 +5810,7 @@ albespine
 albespines
 albespyne
 albespynes
+albethey
 albicore
 albicores
 albigenses
@@ -6119,11 +6137,13 @@ alews
 alexander
 alexanders
 alexanderses
+alexandr
 alexandrian
 alexandrine
 alexandrines
 alexandrite
 alexandrites
+alexandrs
 alexia
 alexias
 alexic
@@ -6718,6 +6738,7 @@ allnesses
 allnight
 allnighter
 allnighters
+allo
 alloantibodies
 alloantibody
 alloantigen
@@ -6744,6 +6765,7 @@ allochirias
 allochthon
 allochthonous
 allochthons
+allocishet
 allocution
 allocutions
 allod
@@ -6820,10 +6842,15 @@ allopolyploids
 allopolyploidy
 allopurinol
 allopurinols
+allos
 allosaur
 allosaurs
 allosaurus
 allosauruses
+allosexual
+allosexualities
+allosexuality
+allosexuals
 allosteric
 allosterically
 allosteries
@@ -7434,6 +7461,7 @@ amantadine
 amantadines
 amanuenses
 amanuensis
+amapiano
 amaracus
 amaracuses
 amarant
@@ -7601,6 +7629,9 @@ ambilingual
 ambilinguals
 ambiophonies
 ambiophony
+ambiphilic
+ambiphilicities
+ambiphilicity
 ambipolar
 ambisextrous
 ambisexual
@@ -9547,6 +9578,8 @@ anglophone
 anglophones
 anglophonic
 anglos
+angmoh
+angmohs
 angola
 angolan
 angolans
@@ -10687,6 +10720,7 @@ antibarbarus
 antibarbaruses
 antibaryon
 antibaryons
+antibi
 antibias
 antibilious
 antibillboard
@@ -10695,6 +10729,7 @@ antibiosis
 antibiotic
 antibiotically
 antibiotics
+antibisexual
 antiblack
 antiblackism
 antiblackisms
@@ -11437,6 +11472,7 @@ antiquation
 antiquations
 antique
 antiqued
+antiqueer
 antiquely
 antiqueness
 antiquenesses
@@ -11888,6 +11924,7 @@ apagogic
 apagogical
 apagogically
 apaid
+apala
 apanage
 apanaged
 apanages
@@ -13051,6 +13088,8 @@ apyrexias
 aqua
 aquabatic
 aquabatics
+aquabib
+aquabibs
 aquaboard
 aquaboards
 aquacade
@@ -14060,6 +14099,9 @@ argumentatively
 argumentator
 argumentators
 argumentive
+argumentless
+argumentlessness
+argumentlessnesses
 arguments
 argumentum
 argumentums
@@ -14563,6 +14605,7 @@ arrivancy
 arrive
 arrived
 arrivederci
+arrivedercis
 arriver
 arrivers
 arrives
@@ -14881,6 +14924,7 @@ artsiness
 artsinesses
 artsman
 artsmen
+artspeak
 artsy
 artwork
 artworks
@@ -15020,6 +15064,10 @@ ascidians
 ascidiate
 ascidiform
 ascidium
+asciified
+asciifies
+asciify
+asciifying
 ascites
 ascitic
 ascitical
@@ -16100,8 +16148,10 @@ astutest
 astylar
 asudden
 asunder
+asur
 asura
 asuras
+asurs
 aswarm
 asway
 asweat
@@ -17672,6 +17722,8 @@ automorphically
 automorphism
 automorphisms
 automotive
+autonepiophilia
+autonepiophilias
 autonomic
 autonomical
 autonomically
@@ -20297,6 +20349,8 @@ bamboozlers
 bamboozles
 bamboozling
 bamboula
+bambuco
+bambucos
 bammed
 bammer
 bammers
@@ -25590,6 +25644,7 @@ biaxial
 biaxially
 bib
 bibacious
+bibanja
 bibasic
 bibation
 bibations
@@ -26996,6 +27051,11 @@ bipetalous
 biphasic
 biphenyl
 biphenyls
+biphobe
+biphobes
+biphobia
+biphobias
+biphobic
 bipinnaria
 bipinnarias
 bipinnate
@@ -28646,6 +28706,7 @@ bloodworms
 bloodwort
 bloodworts
 bloody
+bloodybones
 bloodying
 blooey
 blooie
@@ -29883,6 +29944,8 @@ bombycids
 bombycoid
 bombyx
 bombyxes
+bomfoggeries
+bomfoggery
 bommie
 bommies
 bon
@@ -31403,6 +31466,7 @@ boycotter
 boycotters
 boycotting
 boycotts
+boydem
 boyed
 boyf
 boyfriend
@@ -33852,6 +33916,8 @@ buckskins
 bucksom
 bucktail
 bucktails
+bucktee
+bucktees
 buckteeth
 buckthorn
 buckthorns
@@ -35557,6 +35623,7 @@ bwazis
 by
 bycatch
 bycatches
+bycause
 bycoket
 bycokets
 byde
@@ -43829,6 +43896,8 @@ chempaka
 chempakas
 chems
 chemsex
+chemsexer
+chemsexers
 chemsexes
 chemtrail
 chemtrails
@@ -44184,6 +44253,12 @@ chickenpoxes
 chickens
 chickenshit
 chickenshits
+chickification
+chickifications
+chickified
+chickifies
+chickify
+chickifying
 chickling
 chicklings
 chickories
@@ -46944,6 +47019,8 @@ circumvolves
 circumvolving
 circus
 circuses
+circusiana
+circusianas
 circusier
 circusiest
 circussier
@@ -50487,6 +50564,9 @@ coistrils
 coit
 coital
 coitally
+coitarche
+coitarcheal
+coitarchial
 coition
 coitional
 coitions
@@ -57513,6 +57593,10 @@ cosentient
 coses
 coset
 cosets
+cosexual
+cosexualities
+cosexuality
+cosexuals
 cosey
 coseys
 cosh
@@ -57832,6 +57916,8 @@ cotlands
 cotoneaster
 cotoneasters
 cotquean
+cotqueanities
+cotqueanity
 cotqueans
 cotransduce
 cotransduced
@@ -61788,6 +61874,8 @@ cuckqueaned
 cuckqueaning
 cuckqueans
 cucks
+cucquean
+cucqueans
 cuculiform
 cucullate
 cucullated
@@ -62133,6 +62221,8 @@ cumquats
 cums
 cumshaw
 cumshaws
+cumsicle
+cumsicles
 cumulate
 cumulated
 cumulately
@@ -62197,6 +62287,7 @@ cunjevois
 cunjie
 cunner
 cunners
+cunnies
 cunnilinctus
 cunnilinctuses
 cunnilingus
@@ -62208,6 +62299,7 @@ cunningly
 cunningness
 cunningnesses
 cunnings
+cunny
 cunt
 cunts
 cup
@@ -72461,6 +72553,8 @@ diaper
 diapered
 diapering
 diaperings
+diaperism
+diaperisms
 diapers
 diaphane
 diaphaneities
@@ -84589,6 +84683,8 @@ eightvo
 eightvos
 eighty
 eightyfold
+eightysomething
+eightysomethings
 eigne
 eignes
 eik
@@ -95408,6 +95504,7 @@ extracanonical
 extracellular
 extracellularly
 extrachromosomal
+extracoital
 extracorporeal
 extracorporeally
 extracranial
@@ -98888,6 +98985,9 @@ feting
 fetiparous
 fetish
 fetisheer
+fetisheers
+fetisher
+fetishers
 fetishes
 fetishisation
 fetishisations
@@ -99483,6 +99583,8 @@ fiftieths
 fifty
 fiftyfold
 fiftyish
+fiftysomething
+fiftysomethings
 fig
 figbird
 figbirds
@@ -100646,6 +100748,7 @@ fivepins
 fiver
 fivers
 fives
+fivescore
 fivestones
 fix
 fixable
@@ -103187,6 +103290,8 @@ foodlessness
 foodlessnesses
 foodoir
 foodoirs
+foodplay
+foodplays
 foods
 foodshed
 foodsheds
@@ -103502,6 +103607,7 @@ forby
 forbye
 forcat
 forcats
+forcause
 force
 forceable
 forceably
@@ -104661,6 +104767,8 @@ fortunizing
 forty
 fortyfold
 fortyish
+fortysomething
+fortysomethings
 forum
 forums
 forwander
@@ -106385,8 +106493,12 @@ frottages
 frotted
 frotteur
 frotteurism
+frotteurisms
+frotteurist
+frotteurists
 frotteurs
 frotting
+frottings
 frottola
 frottole
 froufrou
@@ -106681,6 +106793,8 @@ fuckings
 fuckoff
 fuckoffs
 fucks
+fuckskull
+fuckskulls
 fuckup
 fuckups
 fuckwit
@@ -111438,6 +111552,8 @@ gigaflop
 gigaflops
 gigahertz
 gigahertzes
+gigakelvin
+gigakelvins
 gigametre
 gigametres
 gigantean
@@ -111830,6 +111946,12 @@ girlie
 girlier
 girlies
 girliest
+girlification
+girlifications
+girlified
+girlifies
+girlify
+girlifying
 girlish
 girlishly
 girlishness
@@ -111964,6 +112086,8 @@ gjus
 glabella
 glabellae
 glabellar
+glabranin
+glabranins
 glabrate
 glabrescent
 glabrous
@@ -116390,6 +116514,7 @@ grizzlies
 grizzliest
 grizzling
 grizzly
+gro
 groan
 groaned
 groaner
@@ -122152,6 +122277,7 @@ hellebores
 helleborine
 helleborines
 helled
+hellektro
 hellene
 hellenes
 hellenic
@@ -127485,6 +127611,7 @@ hows
 howso
 howsoever
 howsomdever
+howsomedever
 howsomever
 howtowdie
 howtowdies
@@ -128384,6 +128511,7 @@ huzzies
 huzzing
 huzzy
 hwan
+hwat
 hwyl
 hwyls
 hyacine
@@ -130556,6 +130684,7 @@ hythergraph
 hythes
 hytrel
 i
+iaido
 iamb
 iambelegi
 iambelegus
@@ -130573,12 +130702,25 @@ iambuses
 ianthine
 iatraliptic
 iatraliptics
+iatrarchies
+iatrarchy
 iatric
 iatrical
 iatrochemical
+iatrochemically
 iatrochemist
+iatrochemistries
 iatrochemistry
 iatrochemists
+iatrocide
+iatrocides
+iatrocultural
+iatroculturally
+iatroculture
+iatrocultures
+iatroepidemic
+iatroepidemically
+iatroepidemics
 iatrogeneses
 iatrogenesis
 iatrogenic
@@ -130587,8 +130729,33 @@ iatrogenicities
 iatrogenicity
 iatrogenies
 iatrogeny
+iatrologies
+iatrology
+iatromathematical
+iatromathematically
+iatromathematician
+iatromathematicians
+iatromathematics
 iatromechanical
+iatromelia
+iatromisia
+iatromisias
+iatropathologies
+iatropathology
+iatrophobe
+iatrophobes
+iatrophobia
+iatrophobias
+iatrophobic
+iatrophobically
 iatrophysical
+iatrophysically
+iatrophysicist
+iatrophysicists
+iatrophysics
+iatropic
+iatrotechnique
+iatrotechniques
 ibadah
 ibadat
 iban
@@ -135816,6 +135983,8 @@ infantilises
 infantilising
 infantilism
 infantilisms
+infantilist
+infantilists
 infantilities
 infantility
 infantilization
@@ -142101,6 +142270,8 @@ isoseismal
 isoseismals
 isoseismic
 isoseismics
+isosexual
+isosexually
 isosmotic
 isosmotically
 isospin
@@ -147038,6 +147209,8 @@ kiasus
 kiaugh
 kiaughs
 kiawe
+kibanja
+kibanjas
 kibbe
 kibbeh
 kibbehs
@@ -147361,6 +147534,8 @@ kilohertz
 kilohertzes
 kilojoule
 kilojoules
+kilokelvin
+kilokelvins
 kiloliter
 kiloliters
 kilolitre
@@ -164337,6 +164512,8 @@ megajoules
 megakaryocyte
 megakaryocytes
 megakaryocytic
+megakelvin
+megakelvins
 megalith
 megalithic
 megaliths
@@ -167599,6 +167776,8 @@ microinstruction
 microinstructions
 microjet
 microjets
+microkelvin
+microkelvins
 microkernel
 microkernels
 microlepidoptera
@@ -168606,6 +168785,8 @@ milligrams
 millihenries
 millihenry
 millihenrys
+millikelvin
+millikelvins
 millilambert
 millilamberts
 milliliter
@@ -177533,6 +177714,8 @@ myiophilous
 myiophily
 mylar
 mylars
+myllion
+myllions
 mylodon
 mylodons
 mylodont
@@ -178388,6 +178571,8 @@ nanograms
 nanograss
 nanograsses
 nanoid
+nanokelvin
+nanokelvins
 nanomachine
 nanomachines
 nanomaterial
@@ -180834,6 +181019,7 @@ neverminds
 nevermore
 nevertheless
 neverthemore
+neverthenonetheless
 neves
 nevi
 nevirapine
@@ -181643,6 +181829,8 @@ ninetieth
 ninetieths
 ninety
 ninetyfold
+ninetysomething
+ninetysomethings
 ninhydrin
 ninhydrins
 ninja
@@ -182570,6 +182758,7 @@ nonbiological
 nonbiologically
 nonbiologist
 nonbiologists
+nonbisexual
 nonbiting
 nonblack
 nonblacks
@@ -188343,6 +188532,7 @@ omnivorous
 omnivorously
 omnivorousness
 omnivory
+omo
 omohyoid
 omohyoids
 omomyid
@@ -188359,6 +188549,9 @@ omoplate
 omoplates
 omoplatoscopies
 omoplatoscopy
+omorashi
+omorashis
+omos
 omotic
 omov
 omovs
@@ -189719,6 +189912,9 @@ orchestrion
 orchestrions
 orchid
 orchidaceous
+orchidea
+orchidean
+orchideas
 orchidectomies
 orchidectomize
 orchidectomized
@@ -190589,6 +190785,9 @@ orthoscopic
 orthoselection
 orthoselections
 orthoses
+orthosexual
+orthosexualities
+orthosexuality
 orthosilicate
 orthosilicates
 orthosilicic
@@ -198920,6 +199119,11 @@ panorams
 panorpa
 panpharmacon
 panpharmacons
+panphobe
+panphobes
+panphobia
+panphobias
+panphobic
 panpipe
 panpipes
 panplain
@@ -206339,6 +206543,10 @@ phallocrats
 phalloid
 phalloidin
 phalloidins
+phallophilia
+phallophiliac
+phallophiliacs
+phallophilias
 phallophoria
 phallophorus
 phalloplasty
@@ -209992,6 +210200,10 @@ pinkroot
 pinkroots
 pinks
 pinkster
+pinkwash
+pinkwashed
+pinkwashes
+pinkwashing
 pinky
 pinlay
 pinlays
@@ -214006,6 +214218,7 @@ polycrystalline
 polycrystals
 polyculture
 polycultures
+polycurious
 polycyclic
 polycyclics
 polycystic
@@ -225398,6 +225611,10 @@ purplenesses
 purpler
 purples
 purplest
+purplewash
+purplewashed
+purplewashes
+purplewashing
 purplier
 purpliest
 purpling
@@ -250026,6 +250243,8 @@ scorzalite
 scorzonera
 scorzoneras
 scot
+scotale
+scotales
 scotch
 scotched
 scotches
@@ -254516,6 +254735,8 @@ seventieth
 seventieths
 seventy
 seventyfold
+seventysomething
+seventysomethings
 sever
 severabilities
 severability
@@ -254655,10 +254876,22 @@ sexologist
 sexologists
 sexology
 sexpartite
+sexperiment
+sexperimentation
+sexperimentations
+sexperimented
+sexperimenting
+sexperiments
 sexpert
 sexperts
 sexploitation
 sexploitations
+sexploration
+sexplorations
+sexplore
+sexplored
+sexplores
+sexploring
 sexpot
 sexpots
 sext
@@ -258058,6 +258291,10 @@ sieving
 sif
 sifaka
 sifakas
+siffilate
+siffilated
+siffilates
+siffilating
 siffle
 siffled
 siffles
@@ -259317,7 +259554,12 @@ sisses
 sissier
 sissies
 sissiest
+sissification
+sissifications
 sissified
+sissifies
+sissify
+sissifying
 sissiness
 sissinesses
 sissing
@@ -259325,6 +259567,8 @@ sissonne
 sissoo
 sissoos
 sissy
+sissyfication
+sissyfications
 sissyish
 sissyness
 sissynesses
@@ -259498,6 +259742,8 @@ sixtine
 sixty
 sixtyfold
 sixtyish
+sixtysomething
+sixtysomethings
 sizable
 sizableness
 sizablenesses
@@ -260333,6 +260579,10 @@ skullcaps
 skullduggeries
 skullduggery
 skulled
+skullfuck
+skullfucked
+skullfucking
+skullfucks
 skulling
 skulls
 skulpin
@@ -273148,6 +273398,8 @@ straightforwardly
 straightforwardness
 straightforwardnesses
 straightforwards
+straightie
+straighties
 straighting
 straightish
 straightjacket
@@ -273160,9 +273412,14 @@ straightness
 straightnesses
 straights
 straightwards
+straightwash
+straightwashed
+straightwashes
+straightwashing
 straightway
 straightways
 straightwise
+straighty
 straik
 straiked
 straiking
@@ -288640,6 +288897,7 @@ thirty
 thirtyfold
 thirtyish
 thirtysomething
+thirtysomethings
 this
 thisaway
 thisness
@@ -290642,6 +290900,8 @@ titer
 titers
 titfer
 titfers
+titfuck
+titfucks
 tithable
 tithe
 tithed
@@ -290801,6 +291061,8 @@ titupped
 titupping
 titups
 titupy
+titwank
+titwanks
 tityra
 tiv
 tivied
@@ -310780,6 +311042,14 @@ utternesses
 utters
 utu
 utus
+uudecode
+uudecoded
+uudecodes
+uudecoding
+uuencode
+uuencoded
+uuencodes
+uuencoding
 uuh
 uuuh
 uva
@@ -320070,6 +320340,7 @@ whosit
 whosits
 whoso
 whosoever
+whosomedever
 whot
 whow
 whowed
@@ -322968,6 +323239,7 @@ xenophya
 xenoplastic
 xenopus
 xenopuses
+xenosexual
 xenotime
 xenotimes
 xenotransplant
@@ -324166,6 +324438,8 @@ yokul
 yold
 yoldring
 yoldrings
+yoleven
+yolevens
 yolk
 yolked
 yolkier
@@ -325768,6 +326042,7 @@ zoysia
 zoysias
 zubr
 zubrowka
+zubrs
 zucchetti
 zucchetto
 zucchettos
