@@ -256,5 +256,52 @@ cuckqueanry           (n) the state and condition of being a cuckquean
 cuckqueanries         (n) plural of cuckqueanry
 cucquean              (n) an alternative spelling of cuckquean
 cucqueans             (n) plural of cucquean
+orchidea              (n) an orchid
+orchideas             (n) plural of orchidea
+orchidean             (adj) orchidaceous
+acavid                (n) a snail of the family Acavidae
+acavids               (n) plural of acavid
+bloodybones           (n) a fictional creature, similar to the boogeyman, used to frighten children
+abelwhackets          (n, nautical) raps on the hand dealt as punishment for losing in a some games of cards
+ablewhackets          (n, nautical) raps on the hand dealt as punishment for losing in a some games of cards
+absinthiana           (n) the accoutrements used in preparation and drinking of absinthe, such as special glasses, spoons, and carafes
+absinthianas          (n) plural of absinthiana
+circusiana            (n) all of the things related to any circus or all circuses generally
+circusianas           (n) plural of circusiana
+boydem                (n, chiefly Canadian) the police, collectively
+aquabib               (n) one who does not drink alcohol; a teetotaller
+aquabibs              (n) plural of aquabib
+artspeak              (n) the jargon used by artists and jargon for describing art, derisively
+angmoh                (n, Singapore) a white person
+angmohs               (n) plural of angmoh
+afgod                 (n) an idol or false god
+afgods                (n) plural of afgod
+asur                  (n, India) an evil person, by association to the god Asura
+asurs                 (n) plural of asur
+bomfoggery            (n, chiefly American) the pompous or obscuratory language used by politicans and government officials
+bomfoggeries          (n) plural of bomfoggery
+bucktee               (n) a homeless person or drug addict
+bucktees              (n) plural of bucktee
+sissify               (v) to make one more feminine; to emasculate
+sissifies             (v) conjucation of sissify
+sissified             (v) conjucation of sissify
+sissifying            (v) conjucation of sissify
+sissification         (n) the act or process of sissifying
+sissifications        (n) plural of sissification
+sissyfication         (n) an alterative spelling of sissification
+sissyfications        (n) plural of sissyfication
+girlify               (v) to make feminine; to feminize
+girlifies             (v) conjugation of girlify
+girlified             (v) conjugation of girlify
+girlifying            (v) conjugation of girlify
+girlification         (n) the process of girlifying
+girlifications        (n) plural of girlification
+chickify              (v) to make feminine; to feminize
+chickifies            (v) conjugation of chickify
+chickified            (v) conjugation of chickify
+chickifying           (v) conjugation of chickify
+chickification        (n) the process of chickifying
+chickifications       (n) plural of chickification
+arrivedercis          (n) plural of arrivederci
 
 REMOVALS:
