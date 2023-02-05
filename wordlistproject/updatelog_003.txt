@@ -1,0 +1,7 @@
+ADDITIONS:
+tajwid              (n) the rules surrounding the pronounciation of the Quran
+tajweed             (n) ana alternative spelling of tajwid
+phoorza             (n, Indian Arabic) a tax on one's house
+phoorzas            (n) plural of phoorza
+
+REMOVALS:
