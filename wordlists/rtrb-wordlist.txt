@@ -207558,6 +207558,8 @@ phons
 phony
 phonying
 phooey
+phoorza
+phoorzas
 phorate
 phorates
 phorbol
@@ -282953,6 +282955,8 @@ tajiki
 tajiks
 tajine
 tajines
+tajweed
+tajwid
 tak
 taka
 takable
