@@ -3,5 +3,8 @@ tajwid              (n) the rules surrounding the pronounciation of the Quran
 tajweed             (n) ana alternative spelling of tajwid
 phoorza             (n, Indian Arabic) a tax on one's house
 phoorzas            (n) plural of phoorza
+ecotoxin            (n) a chemical or other substance that is toxic to the ecosystem (soil, groundwater, etc.)
+ecotoxins           (n) plural of ecotoxin
+ecotoxic            (adj) [of a chemical] being an ecotoxin
 
 REMOVALS:
