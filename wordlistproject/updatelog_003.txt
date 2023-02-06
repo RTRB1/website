@@ -3,8 +3,51 @@ tajwid              (n) the rules surrounding the pronounciation of the Quran
 tajweed             (n) ana alternative spelling of tajwid
 phoorza             (n, Indian Arabic) a tax on one's house
 phoorzas            (n) plural of phoorza
-ecotoxin            (n) a chemical or other substance that is toxic to the ecosystem (soil, groundwater, etc.)
+ecotoxin            (n) a chemical, biological agent, physical stressor, or other substance that is toxic to an ecosystem
 ecotoxins           (n) plural of ecotoxin
 ecotoxic            (adj) [of a chemical] being an ecotoxin
+ecotoxicity         (n) the potential for 
+ecotoxicities       (n) plural of ecotoxicity
+ecotoxicant         (n) an ecotoxin
+ecotoxicants        (n) plural of ecotoxicant
+ecotoxicology       (n) the study of ecotoxicity
+ecotoxicologies     (n) plural of ecotoxicology
+ecotoxicologist     (n) one who studies ecotoxicity; one who works in the field of ecotoxicology
+ecotoxicologists    (n) plural of ecotoxicologist
+admixtion           (n) an admixture
+admixtions          (n) plural of admixtion
+shriekt             (n) conjugation of shriek
+befoozle            (n) to befooll; to make a fool of
+befoozles           (n) conjugation of befoozle
+befoozled           (n) conjugation of befoozle
+befoozling          (n) conjugation of befoozle
+dealio              (n) the deal [as the current situation]
+dealios             (n) plural of dealio
+aeolid              (n) a sea slug in the suborder Aeolidina
+aeolids             (n) plural of aeolid
+drengs              (n) plural of dreng
+woodmaster          (n, historical) an officer of the royalty of England who oversaw the woods and game within them
+woodmasters         (n) plural of woodmaster
+loanblend           (n, linguistics) a compound words or expression containing both native and foreign elements; a partial calque
+loanblends          (n) plural of loanblend
+longshoreperson     (n) a longshoreman or longshorewoman
+longshorepersons    (n) plural of longshoreperson
+longshorepeople     (n) plural of longshoreperson
+drungar             (n) a kind of military commander in the Roman and Byzantine empires
+drungars            (n) plural of drungar
+drungary            (n) a drungar
+drungaries          (n) plural of drungaries
+beek                (n, informal) clipping of beekeeper
+beeks               (n) plural of beek
+anvilsmith          (n) one who makes anvils, usually for blacksmiths
+anvilsmiths         (n) plural of anvilsmith
+autotransfusion     (n) a blood transfusion in which a person receives their own blood, extracted previously
+autotransfusions    (n) plural of autotransfusion
+autotransfusionist  (n, medicine) an autotransfusion technician 
+autotransfusionists (n) plural of autotransfusionist
+autotransfuse       (n) to perform an autotransfusion
+autotransfuses      (n) conjugation of autotransfuse
+autotransfused      (n) conjugation of autotransfuse
+autotransfusing     (n) conjugation of autotransfuse
 
 REMOVALS:
