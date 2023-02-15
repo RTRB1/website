@@ -1,0 +1,524 @@
+ADDITIONS:
+nematodal            (adj) of or related to nematodes
+nematocidal          (adj) fatal to nematodes
+nematodicidal        (adj) nematocidal
+nematicidal          (adj) nematocidal
+wojusly              (adv) alternative spelling of woegeously
+wojusness            (n) the state of being woegeous
+wojusnesses          (n) plural of woegeousness
+alogarithmic         (adj) not logarithmic
+alogarithmically     (adv) in a way that is not logarithmic
+nonlogarithmic       (adj) not logarithmic
+nonlogarithmically   (adv) in a way that is not logarithmic
+ientaculum           (n, Latin) breakfast
+ientaculums          (n) plural of ientaculum
+ientacula            (n) plural of ientaculum
+prandium             (n, Latin) a late breakfast or early lunch
+prandiums            (n) plural of prandium
+prandia              (n) plural of prandium
+xanthippean          (adj) of or related to Xanthippe; scolding or nagging
+xanthippic           (adj) of or related to Xanthippe; scolding or nagging
+xantippe             (n) alternative spelling of xanthippe
+xantippes            (n) plural of xantippe
+xantippean           (adj) alternative spelling of xanthippean
+xantippic            (adj) alternative spelling of xanthippic
+aam                  (n, historic) a Dutch and German unit of liquid measure equivalent to 36½, 38¼, or 41 wine gallons
+aams                 (n) plural of aam
+aum                  (n, historic) an English unit of liquid measure approximately equivalent to 30 wine gallons
+aums                 (n) plural of aum
+awm                  (n) an alternative spelling of aum
+awms                 (n) plural of awm
+woobie               (n, slang) a fictional character subject to stress or trauma so as to create pathos with the audience
+woobies              (n) plural of woobie
+woobify              (v, slang) to make a character into a woobie
+woobified            (v) conjugation of woobify
+woobifies            (v) conjugation of woobify
+woobifying           (v) conjugation of woobify
+woobification        (n, slang) the process of woobifying
+woobifications       (n) plural of woobification
+zenzizenzic          (adj, obsolete) [of a number of variable] raised to the fourth power
+aliquants            (n) plural of aliquant
+abnumerable          (adj) innumerable or uncountable
+achirality           (n) the condition of being achiral
+achiralities         (n) plural of achirality
+achronality          (n) the condition of being achronal
+achronalities        (n) plural of achronality
+adele                (n) a specific kind of topological ring in the field of rational numbers, or a member thereof
+adeles               (n) plural of adele
+adelic               (adj) of or related to an adele ring
+adelically           (adv) behaving in a way that is adelic
+adelize              (v) to make adelic
+adelizes             (v) conjugation of adelize
+adelized             (v) conjugation of adelize
+adelizing            (v) conjugation of adelize
+adelise              (v) alternative spelling of adelize
+adelises             (v) conjugation of adelise
+adelised             (v) conjugation of adelise
+adelising            (v) conjugation of adelise
+adicity              (n, computer science) the number of arguments or objects a function or operation takes
+adicities            (n) plural of adicity
+adic                 (adj) related to adicity
+arity                (n) adicity
+arities              (n) plural of arity
+adjointable          (adj) capable of being made adjoint
+affinor              (n) a kind of tensor
+affinors             (n) plural of affinor
+affinoid             (adj) affine in most respects but not entirely affine
+affinize             (v) to convert into an affine form
+affinizes            (v) conjugation of affinize
+affinized            (v) conjugation of affinize
+affinizing           (v) conjugation of affinize
+affinization         (n) the conversion to an affine form
+affinizations        (n) plural of affinization
+affinise             (v) alternative spelling of affinize
+affinised            (v) conjugation of affinise
+affinises            (v) conjugation of affinise
+affinising           (v) conjugation of affinise
+affinisation         (n) alternative spelling of affinization
+affinisations        (n) plural of affinisation
+algebraicity         (n) the quality of being algebraic
+algebraicities       (n) plural of algebraicity
+silphion             (n) the plant silphium
+silphions            (n) plural of silphion
+unrequisitioned      (adj) not requisitioned; not wanted
+allotrious           (adj) alien; foreign
+allotriousness       (n) the condition of being allotrious
+allotriousnesses     (n) plural of allotriousness
+alysoid              (n) a catenary
+alysoids             (n) plural of alysoid
+ambitoric            (adj) toric but having opposite orientations
+toricity             (n) the state of being toric
+toricities           (n) plural of toricity
+twistor              (n) a kind of mathematical object used in theoretical physics to explain quantum gravity
+twistors             (n) plural of twistor
+anguinea             (n) a cubic curve having the form xy^2 + ey = ax^3 + bx^2 + cx + d
+anguineal            (adj) snakelike
+tunnyfish            (n) a tuna
+tunnyfishes          (n) plural of tunnyfish
+thimbleeye           (n) the chub mackerel 
+thimbleeyes          (n) plural of thimbleeye
+xiphiid              (n, zoology) a swordfish
+xiphiids             (n) plural of xiphiid
+xiphioid             (adj) similar to a swordfish in appearance or relation
+xiphias              (n, Latin) a swordfish
+paydirt              (n) earth which contains profitable quantities of ore or other valuable materials
+paydirts             (n) plural of paydirt
+weedeater            (n, slang) a pothead or stoner
+weedeaters           (n) plural of weedeater
+bdellometer          (n, medicine) a cupping glass to which a scarificator and an exhausting syringe is attached
+bdellometers         (n) plural of bdellometer
+scarificator         (n, medicine) a scarifier
+scarificators        (n) plural of scarificator
+neopronoun           (n) a neologistic English third-person personal pronoun other than "he", "she", "they", "one", or "it"
+neopronouns          (n) plural of neopronoun
+gubment              (n) eye dialect of government
+gubments             (n) plural of gubment
+ocracy               (n) any of various forms of government or rule as designated by words ending in -ocracy
+ocracies             (n) plural of ocracy
+flawter              (v, archaic) to scrape the skin or hide of an animal
+flawters             (v) conjugation of flawter
+flawtered            (v) conjugation of flawter
+flawtering           (v) conjugation of flawter
+gayful               (adj) full of gaiety or cheerfulness; cheery and lively
+gayfulness           (n) the state and quality of being gayful
+gayfulnesses         (n) plural of gayfulness
+gayfully             (adv) in a gayful manner; cheerily
+gaysome              (adj) gayful
+gaysomeness          (n) the state and quality of being gaysome
+gaysomenesses        (n) plural of gaysomeness
+gaysomely            (adv) in a gaysome manner; gayfully
+gayless              (adj) lacking gaiety; gloomy and somber
+gaylessness          (n) the state and quality of being gayless
+gaylessnesses        (n) plural of gaylessness
+gaylessly            (adv) in a gayless manner; sorrowfully or somberly
+acanthites           (n) plural of acanthite
+adamellites          (n) plural of adamellite
+adamites             (n) plural of adamite
+albitites            (n) plural of albitite
+alstonites           (n) plural of alstonite
+anthropolites        (n) plural of anthropolite
+anthropomorphites    (n) plural of anthropomorphite
+anthropophagites     (n) plural of anthropophagite
+antigorites          (n) plural of antigorite
+apposites            (n) plural of apposite
+armalcolites         (n) plural of armalcolite
+arsenolites          (n) plural of arsenolite
+augelites            (n) plural of augelite
+aurichalcites        (n) plural of aurichalcite
+barkevikites         (n) plural of barkevikite
+barkevikitic         (adj) of, related to, or resembling barkevikite
+bastites             (n) plural of bastite
+bediasites           (n) plural of bediasite
+benitoites           (n) plural of benitoite
+bertrandites         (n) plural of bertrandite
+beryllonites         (n) plural of beryllonite
+beudantites          (n) plural of beudantite
+billitonites         (n) plural of billitonite
+bismites             (n) plural of bismite
+bismutite            (n) plural of bismutite
+bixbyites            (n) plural of bixbyite
+blastomylonites      (n) plural of blastomylonite
+boulangerites        (n) plural of boulangerite
+bournonites          (n) plural of bournonite
+bowenites            (n) plural of bowenite
+breithauptites       (n) plural of breithauptite
+brewsterites         (n) plural of brewsterite
+brochantites         (n) plural of brochantite
+bromyrites           (n) plural of bromyrite
+brushites            (n) plural of brushite
+calcarenites         (n) plural of calcarenite
+caledonites          (n) plural of caledonite
+californites         (n) plural of californite
+campylites           (n) plural of campylite
+cancrinites          (n) plural of cancrinite
+capites              (n) plural of capite
+cervantites          (n) plural of cervantite
+clinocervantite      (n) a monoclinic, colorless mineral containing antimony and oxygen
+clinocervantites     (n) plural of clinocervantite
+chalcophanites       (n) plural of chalcophanite
+chamosites           (n) plural of chamosite
+charnockites         (n) plural of charnockite
+charnockitic         (adj) of, related to, or resembling charnockite
+chlorapatites        (n) plural of chlorapatite
+chloroargyrites      (n) plural of chloroargyrite
+chloromelanites      (n) plural of chloromelanite
+chondrodites         (n) plural of chondrodite
+cleavelandites       (n) plural of cleavelandite
+coalites             (v) conjugation of coalite
+coalited             (v) conjugation of coalite
+coaliting            (v) conjugation of coalite
+cochlites            (n) plural of cochlite
+cocorites            (n) plural of cocorite
+commandites          (n) plural of commandite
+copiapites           (n) plural of copiapite
+cornwallite          (n) a basic copper arsenate mineral first identified in Cornwall
+cornwallites         (n) plural of cornwallite
+cornubite            (n) cornwallite
+cornubites           (n) plural of cornubite
+cyanochroites        (n) plural of cyanochroite
+cyanotrichites       (n) plural of cyanotrichite
+cyrtolites           (n) plural of cyrtolite
+danaites             (n) plural of danaite
+danalites            (n) plural of danalite
+delafossites         (n) plural of delafossite
+descloizites         (n) plural of descloizite
+digenites            (n) plural of digenite
+domites              (n) plural of domite
+dufrenites           (n) plural of dufrenite
+dufrenoysites        (n) plural of dufrenoysite
+edenites             (n) plural of edenite
+edenize              (v) to bring to a state of paradisaic happiness; to make edenic
+edenizes             (v) conjugation of edenize
+edenized             (v) conjugation of edenize
+edenizing            (v) conjugation of edenize
+edenise              (v) an alternative spelling of edenize
+edenises             (v) conjugation of edenise
+edenised             (v) conjugation of edenise
+edenising            (v) conjugation of edenise
+essexites            (n) plural of essexite
+essexitic            (adj) of, related to, or resembling essexite
+famatinites          (n) plural of famatinite
+ferberites           (n) plural of ferberite
+fergusonites         (n) plural of fergusonite
+ferrithorite         (n) an variety of thorite rich in iron(III)
+ferrithorites        (n) plural of ferrithorite 
+fiorites             (n) plural of fiorite
+fluocerites          (n) plural of fluocerite
+foralites            (n) plural of foralite
+foyaites             (n) plural of foyaite
+freibergites         (n) plural of freibergite
+freieslebenites      (n) plural of freieslebenite
+ganomalites          (n) plural of ganomalite
+ganophyllites        (n) plural of ganophyllite
+gayite               (n) a monoclinic, vitreous, green-black rock containing iron(III) and manganese(II)
+gayites              (n) plural of gayite
+gaylussites          (n) plural of gaylussite
+geikielites          (n) plural of geikielite
+geocronites          (n) plural of geocronite
+griphites            (n) plural of griphite
+grunerites           (n) plural of grunerite
+gruneritize          (v) to convert to the mineral grunerite
+gruneritizes         (v) conjugation of gruneritize
+gruneritized         (v) conjugation of gruneritize
+gruneritizing        (v) conjugation of gruneritize
+gruneritization      (n) the conversion into the mineral grunerite
+gruneritizations     (n) plural of gruneritization
+gruneritise          (v) an alternative spelling of gruneritize
+gruneritises         (v) conjugation of gruneritise
+gruneritised         (v) conjugation of gruneritise
+gruneritising        (v) conjugation of gruneritise
+gruneritisation      (n) an alternative spelling of gruneritization
+gruneritisations     (n) plural of gruneritisation
+gryphites            (n) plural of gryphite
+haidingerites        (n) plural of haidingerite
+halotrichites        (n) plural of halotrichite
+hanksites            (n) plural of hanksite
+harzburgites         (n) plural of harzburgite
+hauerites            (n) plural of hauerite
+haughtonites         (n) plural of haughtonite
+hausmannites         (n) plural of hausmannite
+hedenbergites        (n) plural of hedenbergite
+hedenbergitic        (adj) of, related to, or resembling hedenbergite
+hedrumites           (n) plural of hedrumite
+hellites             (n) plural of hellite
+herderites           (n) plural of herderite
+hetaerolites         (n) plural of hetaerolite
+heterosites          (n) plural of heterosite
+heumites             (n) plural of heumite
+hieratites           (n) plural of hieratite
+hoernesites          (n) plural of hoernesite
+holmquistites        (n) plural of holmquistite
+homilites            (n) plural of homilite
+hornblendites        (n) plural of hornblendite
+hornblenditic        (adj) of, related to, or resembling hornblendite
+horsfordites         (n) plural of horsfordite
+howardites           (n) plural of howardite
+huebnerites          (n) plural of huebnerite
+huntites             (n) plural of huntite
+hydrogenites         (n) plural of hydrogenite
+ichthyodorylites     (n) plural of ichthyodorylite
+iddingsites          (n) plural of iddingsite
+ilsemannites         (n) plural of ilsemannite
+ilvaites             (n) plural of ilvaite
+indialites           (n) plural of indialite
+inesites             (n) plural of inesite
+iodargyrites         (n) plural of iodargyrite
+itabirites           (n) plural of itabirite
+jamesonites          (n) plural of jamesonite
+javaites             (n) plural of javaite
+javanites            (n) plural of javanite
+jeremejevites        (n) plural of jeremejevite
+jeremejewite         (n) an alternative spelling of jeremejevite
+jeremejewites        (n) plural of jeremejewite
+kaersutites          (n) plural of kaersutite
+kalsilites           (n) plural of kalsilite
+kentallenites        (n) plural of kentallenite
+kinzigites           (n) plural of kinzigite
+kobellites           (n) plural of kobellite
+koechlinites         (n) plural of koechlinite
+koenenites           (n) plural of koenenite
+koettigites          (n) plural of koettigite
+kolbeckites          (n) plural of kolbeckite
+komatiites           (n) plural of komatiite
+kornelites           (n) plural of kornelite
+krennerites          (n) plural of krennerite
+kutnahorites         (n) plural of kutnahorite
+kutnohorite          (n) a white-brown calcium-manganese-magnesium-iron carbonate mineral with trigonal crystals
+kutnohorites         (n) plural of kutnohorite
+lampadites           (n) plural of lampadite
+lamprophyllites      (n) plural of lamprophyllite
+lamprophyllitic      (adj) of, related to, or resembling lamprophyllite
+lanarkites           (n) plural of lanarkite
+langites             (n) plural of langite
+lansfordites         (n) plural of lansfordite
+larderellites        (n) plural of larderellite
+larnites             (n) plural of larnite
+laubmannites         (n) plural of laubmannite
+laumontites          (n) plural of laumontite
+leadhillite          (n) plural of leadhillite
+lechatelierites      (n) plural of lechatelierite
+legrandites          (n) plural of legrandite
+lepidocrocites       (n) plural of lepidocrocite
+linarites            (n) plural of linarite
+lindqvistite         (n) a black mineral composed of iron, lead, magnesium, manganese, oxygen, and silicon
+lindqvistites        (n) plural of lindqvistite
+lithiophilites       (n) plural of lithiophilite
+lunarites            (n) plural of lunarite
+luxullyanites        (n) plural of luxullyanite
+lydites              (n) plural of lydite
+lyddite              (n) an explosive made of picric acid
+lyddites             (n) plural of lyddite
+mariposites          (n) plural of mariposite
+marsupites           (n) plural of marsupite
+maskelynites         (n) plural of maskelynite
+massecuites          (n) plural of massecuite
+melanophlogites      (n) plural of melanophlogite
+melanovanadites      (n) plural of melanovanadite
+menaccanites         (n) plural of menaccanite
+mendipites           (n) plural of mendipite
+meneghinites         (n) plural of meneghinite
+mesosiderites        (n) plural of mesosiderite
+metacinnabarites     (n) plural of metacinnabarite
+metropolites         (n) plural of metropolite
+miargyrites          (n) plural of miargyrite
+micrites             (n) plural of micrite
+microperthites       (n) plural of microperthite
+midshipmites         (n) plural of midshipmite
+miliolites           (n) plural of miliolite
+mirabilites          (n) plural of mirabilite
+missourites          (n) plural of missourite
+mixites              (n) plural of mixite
+moissanites          (n) plural of moissanite
+molybdites           (n) plural of molybdite
+molybdophyllites     (n) plural of molybdophyllite
+molysites            (n) plural of molysite
+monetites            (n) plural of monetite
+mophrodites          (n) plural of mophrodite
+morphodites          (n) plural of morphodite
+mottramites          (n) plural of mottramite
+myrmekites           (n) plural of myrmekite
+nakhlites            (n) plural of nakhlite
+natroalunites        (n) plural of natroalunite
+neotocites           (n) plural of neotocite
+neptunites           (n) plural of neptunite
+nonelites            (n) plural of nonelite
+nontronites          (n) plural of nontronite
+norbergites          (n) plural of norbergite
+nordmarkites         (n) plural of nordmarkite
+obsidianites         (n) plural of obsidianite
+oceanites            (n) plural of oceanite
+opalites             (n) plural of opalite
+orientites           (n) plural of orientite
+orthites             (n) plural of orthite
+ostracites           (n) plural of ostracite
+palmites             (n) plural of palmite
+pantellerites        (n) plural of pantellerite
+patronites           (n) plural of patronite
+pectinites           (n) plural of pectinite
+peperites            (n) plural of peperite
+petalites            (n) plural of petalite
+phalangites          (n) plural of phalangite
+phosphuranylites     (n) plural of phosphuranylite
+photoexcites         (v) conjugation of photoexcite
+photoexciting        (v) conjugation of photoexcite
+picrochromites       (n) plural of picrochromite
+picrolites           (n) plural of picrolite
+pisanites            (n) plural of pisanite
+pistacites           (n) plural of pistacite
+pitticites           (n) plural of pitticite
+plaudites            (n) plural of plaudite
+plumosites           (n) plural of plumosite
+polylithionites      (n) plural of polylithionite
+polymignites         (n) plural of polymignite
+portlandites         (n) plural of portlandite
+posnjakites          (n) plural of posnjakite
+pospolites           (n) plural of pospolite
+pseudoleucites       (n) plural of pseudoleucite
+pseudomalachites     (n) plural of pseudomalachite
+pycnochlorites       (n) plural of pycnochlorite
+pyrophanites         (n) plural of pyrophanite
+pyroxferroites       (n) plural of pyroxferroite
+pyroxmangites        (n) plural of pyroxmangite
+rammelsbergites      (n) plural of rammelsbergite
+ratbites             (n) plural of ratbite
+rectorites           (n) plural of rectorite
+redningskoites       (n) plural of redningskoite
+reevesites           (n) plural of reevesite
+rhythmites           (n) plural of rhythmite
+rodingites           (n) plural of rodingite
+roscoelites          (n) plural of roscoelite
+roselites            (n) plural of roselite
+rudites              (n) plural of rudite
+samsonites           (n) plural of samsonite
+sarcolites           (n) plural of sarcolite
+schreibersites       (n) plural of schreibersite
+scorzalites          (n) plural of scorzalite
+seamanite            (n) an orthorhombic, vitreous/subvitreous yellow mineral containing manganese(II)
+seamanites           (n) plural of seamanite
+shoddyite            (n) a supplier during the United States Civil War who profited by supplying cheap, inferior goods
+shoddyites           (n) plural of shoddyite
+shonkinites          (n) plural of shonkinite
+shoshonites          (n) plural of shoshonite
+siallites            (n) plural of siallite
+silverites           (n) plural of silverite
+simetites            (n) plural of simetite
+smythites            (n) plural of smythite
+soapolites           (n) plural of soapolite
+soddyites            (n) plural of soddyite
+sparagmites          (n) plural of sparagmite
+spectrolites         (n) plural of spectrolite
+sphaerocobaltites    (n) plural of sphaerocobaltite
+sphaerosiderites     (n) plural of sphaerosiderite
+steadites            (n) plural of steadite
+stilleites           (n) plural of stilleite
+stillwellites        (n) plural of stillwellite
+stilpnosiderites     (n) plural of stilpnosiderite
+stishovites          (n) plural of stishovite
+strengites           (n) plural of strengite
+stromeyerites        (n) plural of stromeyerite
+suevites             (n) plural of suevite
+sussexite            (n) an orthorhombic, dull, white-lilac mineral composed of manganese, boron, hydrogen, and oxygen
+sussexites           (n) plural of sussexite
+swartzites           (n) plural of swartzite
+syenodiorites        (n) plural of syenodiorite
+synoditic            (adj) of or related to a synodite clergy
+taaffeites           (n) plural of taaffeite
+tarnowitzites        (n) plural of tarnowitzite
+tectonites           (n) plural of tectonite
+thalamites           (n) plural of thalamite
+thelemites           (n) plural of thelemite
+thomsenolites        (n) plural of thomsenolite
+thomsonites          (n) plural of thomsonite
+thoreaulites         (n) plural of thoreaulite
+thorogummites        (n) plural of thorogummite
+thortveitites        (n) plural of thortveitite
+thranites            (n) plural of thranite
+thrombolites         (n) plural of thrombolite
+thrombolitic         (adj) of, related to, or resembling thrombolite
+titanohaematites     (n) plural of titanohaematite
+titer                (v) to concentrate by titration
+titers               (v) conjugation of titer
+titered              (v) conjugation of titer
+titering             (v) conjugation of titer
+titre                (v) an alternative spelling of titer
+titres               (v) conjugation of titre
+titred               (v) conjugation of titre
+titring              (v) conjugation of titre
+tolites              (n) plural of tolite
+transfinites         (n) plural of transfinite
+tritheites           (n) plural of tritheite
+tuffites             (n) plural of tuffite
+tungstenites         (n) plural of tungstenite
+turnerites           (n) plural of turnerite
+tyuyamunites         (n) plural of tyuyamunite
+uakitites            (n) plural of uakitite
+unfavorites          (v) conjugation of unfavorite
+unfavorited          (v) conjugation of unfavorite
+unfavoriting         (v) conjugation of unfavorite
+unfavourites         (v) an alternative spelling of unfavorite
+unfavourited         (v) conjugation of unfavourite
+unfavouriting        (v) conjugation of unfavourite
+unwhites             (n) plural of unwhite
+uranothorites        (n) plural of uranothorite
+ureilites            (n) plural of ureilite
+urtites              (n) plural of urtite
+vitrinites           (n) plural of vitrinite
+vogesites            (n) plural of vogesite
+wardites             (n) plural of wardite
+websterites          (n) plural of websterite
+wehrlites            (n) plural of wehrlite
+whitlockites         (n) plural of whitlockite
+williamsites         (n) plural of williamsite
+xanthiosite          (n) a yellow-green phosphate mineral first discovered in Germany in 1858
+xanthiosites         (n) plural of xanthiosite
+xiangjiangite        (n) a yellow mineral composed of aluminium, hydrogen, iron, oxygen, phosphorus, sulphur, and uranium
+xiangjiangites       (n) plural of xiangjiangite
+zeunerites           (n) plural of zeunerite
+zites                (n) plural of zite
+zygites              (n) plural of zygite
+eggah                (n) a dish of eggs cooked in a pancake with a vegetable or meat filling
+eggahs               (n) plural of eggah
+wojak                (n, slang) a specific kind of internet meme depicting a crude representation of a person
+wojaks               (n) plural of wojak
+soyboy               (n, slang, derogatory) an unmasculine or effeminate man
+soyboys              (n) plural of soyboy
+sexcite              (v, slang) to become sexually aroused
+sexcites             (v) conjugation of sexcite
+sexcited             (v) conjugation of sexcite
+sexciting            (v) conjugation of sexcite
+manchi               (n) a kind of Mapuche medicine man
+manchis              (n) plural of manchi
+brainworm            (n, slang, derogatory) a persistent delusion or obsession; a deeply-ingrained or unquestioned idea
+brainworms           (n) plural of brainworm
+intuitivity          (n) intuitiveness
+intuitivities        (n) plural of intuitivity
+cya                  (n, internet slang) alternative spelling of "see ya"
+braies               (n, plural only) a wool or skin undergarment worn in medieval Europe; braccae
+braccae              (n, plural only) a wool or skin undergarment worn in medieval Europe; braies
+dillegrout           (n) an alternative spelling of dilligrout
+angu                 (n, Brazilia Portuguese) a mash of rice, salt, and garlic then fried in olive oil
+angus                (n) plural of angu
+beloathed            (n) one who is much or fiercely loathed [vis-à-vis "beloved"]
+beloatheds           (n) plural of beloathed
+
+REMOVALS:
