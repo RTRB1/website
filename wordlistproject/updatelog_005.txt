@@ -85,5 +85,7 @@ bara                 (n, slang, Japanese) homoerotic media or pornography that a
 yaoi                 (n, Japanese) a narrative or visual work featuring a romance or sexual relationship between two or more men
 yuri                 (n, Japanese) a narrative or visual work featuring a romance or sexual relationship between two or more women
 ashtime              (n) a male transvestite serving in the Maale Ethiopian king's court
+headwear             (n) a hat or other covering worn on the head
+headwears            (n) plural of headwear
 
 REMOVALS:

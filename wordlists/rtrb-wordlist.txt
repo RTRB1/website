@@ -22546,7 +22546,9 @@ beanball
 beanballs
 beanbreath
 beaned
+beaner
 beaneries
+beaners
 beanery
 beanfeast
 beanfeasts
@@ -70409,6 +70411,18 @@ deracination
 deracinations
 deracine
 deracines
+deradicalisation
+deradicalisations
+deradicalise
+deradicalised
+deradicalises
+deradicalising
+deradicalization
+deradicalizations
+deradicalize
+deradicalized
+deradicalizes
+deradicalizing
 deraign
 deraigned
 deraigning
@@ -121717,6 +121731,8 @@ headwater
 headwaters
 headway
 headways
+headwear
+headwears
 headwind
 headwinds
 headword
