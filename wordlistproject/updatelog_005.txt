@@ -1,0 +1,89 @@
+ADDITIONS:
+mhm                  (interj) nasalized form of uh-huh, used to indicate agreement or to allow the speaker to continue talking
+mmhm                 (interj) an alternative spelling of mhm
+mmhmm                (interj) an alternative spelling of mhm
+mhmm                 (interj) an alternative spelling of mhm
+braggadociously      (adv) in a manner characterized by excessive boastfulness
+cocarde              (n) an alternative spelling of cockade
+cocardes             (n) plural of cocarde
+pepsis               (n) plural of pepsi
+burninate            (v, humorous) to destroy by fire; to burn
+burninates           (v) conjugation of burninate
+burninated           (v) conjugation of burninate
+burninating          (v) conjugation of burninate
+burnination          (n) the process of burninating
+burninations         (n) plural of burnination
+burninator           (n) one who burninates
+burninators          (n) plural of burninator
+codliver             (n) the liver of the codfish, from which codliver oil (a medical supplement) can be extracted
+codlivers            (n) plural of codliver
+ases                 (n) plural of as
+mintonette           (n, historic) a sport being a combination basketball and badminton, a sort of proto-volleyball
+yearday              (n, historic) an anniversary day
+yeardays             (n) plural of yearday
+abelungu             (n, South African) white people, collectively
+gqom                 (n, South African) a style of house music in South Africa
+izimbongi            (n) plural of imbongi
+mafufunyana          (n, South African) a delusion where one believes to be possessed by a demon or other evil spirit, causing hysteria
+mafufunyanas         (n) plural of mafufunyana
+amafufunyana         (n) an alternative form of mafufunyana
+amafufunyanas        (n) plural of amafufunyana
+magosha              (n, South African) a whore
+magoshas             (n) plural of magosha
+tshwala              (n, South African) a traditional South African beer made from sorghum
+tshwalas             (n) plural of tshwala
+eboy                 (n) a male member of the Gen Z subculture influenced by emo, scene, Japanese anime and kawaii, and Korean pop culture movements
+eboys                (n) plural of eboy
+egirl                (n) a female member of the Gen Z subculture influenced by emo, scene, Japanese anime and kawaii, and Korean pop culture movements
+egirls               (n) plural of egirl
+ekid                 (n) an egirl or eboy
+ekids                (n) plural of ekid
+armth                (n, historic) povery or wretchedness
+armths               (n) plural of armth
+aux                  (n, slang) clipping of "auxiliary input", a type of data input typically used for music, especially in car stereos
+auxes                (n) plural of aux
+bih                  (n, AAVE) bitch
+bihs                 (n) plural of bih
+bentsh               (v, Judaism) to recite the Birkat Hamazon (a kind of saying of grace after a meal)
+bentshes             (v) conjugation of bentsh
+bentshed             (v) conjugation of bentsh
+bentshing            (v) conjugation of bentsh
+bentsher             (n) one who recites the Birkat Hamazon
+bentshers            (n) plural of bentsher
+bentsch              (v) an alternative spelling of bentsh
+bentsches            (v) conjugation of bentsch
+bentsched            (v) conjugation of bentsch
+bentsching           (v) conjugation of bentsch
+bentscher            (n) an alternative spelling of bentscher
+bentschers           (n) plural of bentscher
+semiquincentennial   (n) a 250th-year anniversary
+semiquincentennials  (n) plural of semiquincentennial
+excommunicatee       (n) one who is excommunicated
+excommunicatees      (n) plural of excommunicatee
+praxis               (n) the practical application of academic theory into the real world
+praxes               (n) plural of praxis
+praxises             (n) plural of praxis
+praxic               (adj) of or related to praxis
+oxyfuel              (n, welding) a combination of oxygen and a fuel, such as acetylene
+oxyfuels             (n) plural of oxyfuel
+oxyweld              (v) to weld using an oxyfuel
+oxywelds             (v) conjugation of oxyweld
+oxywelded            (v) conjugation of oxyweld
+oxywelding           (v) conjugation of oxyweld
+aaah                 (interj) an alternative spelling of aah
+ijazah               (n, Indonesian) an educational diploma or certificate related to the study of Islamic law
+ijazahs              (n) plural of ijazah
+ijaza                (n) an alternative spelling of ijazah
+ijazas               (n) plural of ijaza
+iunno                (interj, slang) elision of "I dunno", itself an elision of "I don't know"
+zveno                (n, Russian) a work group within a Soviet farming collective
+zvenos               (n) plural of zveno
+zvenya               (n) plural of zveno
+yass                 (interj, slang) yes
+yas                  (interj) an alternative spelling of yass
+bara                 (n, slang, Japanese) homoerotic media or pornography that accentuates macho masculinity
+yaoi                 (n, Japanese) a narrative or visual work featuring a romance or sexual relationship between two or more men
+yuri                 (n, Japanese) a narrative or visual work featuring a romance or sexual relationship between two or more women
+ashtime              (n) a male transvestite serving in the Maale Ethiopian king's court
+
+REMOVALS:
