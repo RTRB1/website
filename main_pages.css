@@ -1,5 +1,40 @@
 body{
-	background-color:#b7cbed;
+	/* background-color:#b7cbed; */
+	background-color:black;
 	margin-left:2em;
 	margin-right:2em;
 }
+
+.inline-block {
+	display: inline-block;
+	margin-right: 0px;
+}
+table, th, td {
+	border: 1px solid white;
+	border-collapse: collapse;
+	text-align:center
+}
+
+h1, h2, h3, h4, h5, h6, p, li, tr, td, th {
+	color: white;
+}
+
+ /* unvisited link */
+a:link {
+  color: deepskyblue;
+}
+
+/* visited link */
+a:visited {
+  color: darkblue;
+}
+
+/* mouse over link */
+a:hover {
+  color: blue;
+}
+
+/* selected link */
+a:active {
+  color: red;
+} 
