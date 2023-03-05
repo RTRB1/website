@@ -160,6 +160,7 @@ radioassay           (v) to assay ore or another radioactive sample to determine
 radioassays          (v) conjugation of radioassay
 radioassayed         (v) conjugation of radioassay
 radioassaying        (v) conjugation of radioassay
+interbusiness        (adj) between two or more businesses
 
 REMOVALS:
 interbusinesses      phony plural of the adjective interbusiness ["between business(es)"]

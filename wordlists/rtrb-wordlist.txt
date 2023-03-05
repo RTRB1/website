@@ -84913,6 +84913,7 @@ eigenfrequencies
 eigenfrequency
 eigenfunction
 eigenfunctions
+eigengrau
 eigenmode
 eigenmodes
 eigenstate
@@ -138984,6 +138985,7 @@ interbreeding
 interbreedings
 interbreeds
 interbroker
+interbusiness
 intercalar
 intercalaria
 intercalaries
