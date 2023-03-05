@@ -5623,6 +5623,8 @@ aitch
 aitchbone
 aitchbones
 aitches
+aitia
+aition
 aits
 aitu
 aitus
@@ -13269,6 +13271,8 @@ aquatone
 aquatones
 aquavit
 aquavits
+aquaworld
+aquaworlds
 aqueduct
 aqueducts
 aqueous
@@ -22544,6 +22548,8 @@ beanbag
 beanbags
 beanball
 beanballs
+beanbrawl
+beanbrawls
 beanbreath
 beaned
 beaner
@@ -23449,6 +23455,7 @@ beflag
 beflagged
 beflagging
 beflags
+beflapped
 beflea
 befleaed
 befleaing
@@ -23465,6 +23472,10 @@ beflum
 beflummed
 beflumming
 beflums
+beflutter
+befluttered
+befluttering
+beflutters
 befoam
 befoamed
 befoaming
@@ -26665,6 +26676,13 @@ bioassays
 bioastronautics
 bioastronomies
 bioastronomy
+bioaugment
+bioaugmentation
+bioaugmentations
+bioaugmentative
+bioaugmented
+bioaugmenting
+bioaugments
 bioavailabilities
 bioavailability
 bioavailable
@@ -26731,6 +26749,8 @@ biocomputing
 biocomputings
 biocontainment
 biocontainments
+biocontaminant
+biocontaminants
 biocontrol
 biocontrols
 bioconversion
@@ -46790,6 +46810,8 @@ cinecamera
 cinecameras
 cinefilm
 cinefilms
+cinegenic
+cinegenically
 cinema
 cinemagoer
 cinemagoers
@@ -61203,6 +61225,8 @@ crosswire
 crosswires
 crosswise
 crossword
+crosswordese
+crosswordeses
 crosswordlike
 crosswords
 crosswort
@@ -71544,6 +71568,12 @@ detangler
 detanglers
 detangles
 detangling
+detartrate
+detartrated
+detartrates
+detartrating
+detartration
+detartrations
 detassel
 detasseled
 detasseling
@@ -72110,6 +72140,10 @@ devitrified
 devitrifies
 devitrify
 devitrifying
+devive
+devived
+devives
+deviving
 devling
 devlings
 devo
@@ -77963,6 +77997,10 @@ disvisage
 disvisaged
 disvisages
 disvisaging
+disvive
+disvived
+disvives
+disviving
 disvouch
 disvouched
 disvouches
@@ -81594,6 +81632,8 @@ droved
 drover
 drovers
 droves
+droveway
+droveways
 droving
 drovings
 drow
@@ -84708,6 +84748,8 @@ egger
 eggeries
 eggers
 eggery
+eggetarian
+eggetarians
 eggfruit
 eggfruits
 egghead
@@ -86769,6 +86811,8 @@ emonges
 emongest
 emongst
 emony
+emordnilap
+emordnilaps
 emos
 emote
 emoted
@@ -88628,6 +88672,10 @@ enheartening
 enheartenned
 enheartenning
 enheartens
+enhort
+enhorted
+enhorting
+enhorts
 enhunger
 enhungered
 enhungering
@@ -93614,6 +93662,7 @@ evitates
 evitating
 evitation
 evitations
+evitative
 evite
 evited
 eviternal
@@ -103552,8 +103601,10 @@ foodstuffs
 foodway
 foodways
 foody
+foof
 foofaraw
 foofaraws
+foofs
 fool
 foolbegged
 fooled
@@ -105328,6 +105379,8 @@ foxcore
 foxcores
 foxed
 foxes
+foxess
+foxesses
 foxfire
 foxfires
 foxfish
@@ -105350,6 +105403,8 @@ foxier
 foxies
 foxiest
 foxily
+foxina
+foxinas
 foxiness
 foxinesses
 foxing
@@ -107560,6 +107615,7 @@ funking
 funks
 funkster
 funksters
+funktionslust
 funky
 funned
 funnel
@@ -112212,6 +112268,8 @@ girds
 girkin
 girkins
 girl
+girlboss
+girlbosses
 girlfriend
 girlfriends
 girlhood
@@ -121619,6 +121677,8 @@ headlined
 headliner
 headliners
 headlines
+headlinese
+headlineses
 headlining
 headlock
 headlocks
@@ -121930,6 +121990,7 @@ heathcocks
 heathen
 heathendom
 heathendoms
+heatheness
 heathenesse
 heathenesses
 heathenise
@@ -123969,6 +124030,8 @@ heteronymously
 heteronyms
 heteroousian
 heteroousians
+heteropalindrome
+heteropalindromes
 heterophasia
 heterophil
 heterophile
@@ -134937,8 +135000,14 @@ incorporative
 incorporator
 incorporators
 incorporeal
+incorporealism
+incorporealisms
+incorporealist
+incorporealists
 incorporeality
 incorporeally
+incorporealness
+incorporealnesses
 incorporeities
 incorporeity
 incorporial
@@ -137518,6 +137587,8 @@ inningses
 innit
 innkeeper
 innkeepers
+innkeepress
+innkeepresses
 innless
 innlike
 innocence
@@ -138913,7 +138984,6 @@ interbreeding
 interbreedings
 interbreeds
 interbroker
-interbusinesses
 intercalar
 intercalaria
 intercalaries
@@ -139733,6 +139803,7 @@ interoceptors
 interocular
 interoffice
 interoffices
+interop
 interoperabilities
 interoperability
 interoperable
@@ -139742,6 +139813,7 @@ interoperates
 interoperating
 interoperative
 interoperatives
+interops
 interorbital
 interorbitals
 interorgan
@@ -141098,6 +141170,8 @@ inverts
 invest
 investable
 invested
+investee
+investees
 investible
 investigable
 investigate
@@ -141733,6 +141807,7 @@ ironworks
 irony
 iroquoian
 iroquois
+irori
 irradiance
 irradiances
 irradiancies
@@ -144954,6 +145029,8 @@ josser
 jossers
 josses
 jossing
+jostaberries
+jostaberry
 jostle
 jostled
 jostlement
@@ -150357,6 +150434,7 @@ lactoses
 lactosuria
 lactosurias
 lactovegetarian
+lactovegetarians
 lactulose
 lactuloses
 lactyl
@@ -156499,6 +156577,7 @@ loaches
 load
 loadability
 loadable
+loadberries
 loadberry
 loaded
 loaden
@@ -162637,6 +162716,7 @@ markups
 markworthy
 marl
 marlacious
+marlberries
 marlberry
 marle
 marled
@@ -168122,6 +168202,9 @@ microflora
 microflorae
 microfloral
 microfloras
+microfluid
+microfluidics
+microfluids
 microform
 microforms
 microfossil
@@ -178919,6 +179002,7 @@ namus
 nan
 nana
 nanas
+nanberries
 nanberry
 nance
 nances
@@ -180931,6 +181015,7 @@ neshness
 neshnesses
 nespola
 ness
+nessberries
 nessberry
 nesselrode
 nesselrodes
@@ -192234,6 +192319,8 @@ outcavilled
 outcavilling
 outcavils
 outcept
+outchamber
+outchambers
 outcharge
 outcharged
 outcharges
@@ -192261,6 +192348,8 @@ outchide
 outchided
 outchides
 outchiding
+outchorus
+outchoruses
 outcities
 outcity
 outclass
@@ -193275,6 +193364,10 @@ outputted
 outputter
 outputters
 outputting
+outqualified
+outqualifies
+outqualify
+outqualifying
 outquarters
 outquencher
 outquenchers
@@ -193929,6 +194022,10 @@ outvenom
 outvenomed
 outvenoming
 outvenoms
+outverse
+outversed
+outverses
+outversing
 outvie
 outvied
 outvies
@@ -197286,8 +197383,12 @@ ovomucoid
 ovomucoids
 ovonic
 ovonics
+ovotarian
+ovotarians
 ovotestes
 ovotestis
+ovovegetarian
+ovovegetarians
 ovoviviparities
 ovoviviparity
 ovoviviparous
@@ -211155,6 +211256,8 @@ pisoliths
 pisolitic
 pisos
 piss
+pissabed
+pissabeds
 pissant
 pissants
 pissasphalt
@@ -211163,6 +211266,7 @@ pissed
 pisser
 pissers
 pisses
+pisseth
 pisshead
 pissheads
 pisshole
@@ -220245,6 +220349,8 @@ presidentess
 presidentesses
 presidential
 presidentially
+presidentress
+presidentresses
 presidents
 presidentship
 presidentships
@@ -229215,6 +229321,10 @@ radioactively
 radioactivities
 radioactivity
 radioallergosorbent
+radioassay
+radioassayed
+radioassaying
+radioassays
 radioautograph
 radioautographic
 radioautographies
@@ -237725,12 +237835,16 @@ reportages
 reported
 reportedly
 reporter
+reporteress
+reporteresses
 reporters
 reporting
 reportingly
 reportings
 reportorial
 reportorially
+reportress
+reportresses
 reports
 repos
 reposado
@@ -248647,6 +248761,8 @@ sawbones
 sawboneses
 sawbuck
 sawbucks
+sawbwa
+sawbwas
 sawcut
 sawcuts
 sawder
@@ -253849,6 +253965,8 @@ semolina
 semolinas
 semology
 semon
+semordnilap
+semordnilaps
 semp
 semper
 sempervirent
@@ -257415,6 +257533,12 @@ shoeboxes
 shoebrush
 shoebrushes
 shoed
+shoegaze
+shoegazes
+shoegazey
+shoegazing
+shoegazings
+shoegazy
 shoehorn
 shoehorned
 shoehorning
@@ -280606,10 +280730,12 @@ swagger
 swaggered
 swaggerer
 swaggerers
+swaggeries
 swaggering
 swaggeringly
 swaggerings
 swaggers
+swaggery
 swaggie
 swaggies
 swagging
@@ -284847,6 +284973,8 @@ tats
 tatsoi
 tatsois
 tatt
+tattarrattat
+tattarrattats
 tatted
 tatter
 tatterdemalion
@@ -294708,6 +294836,8 @@ translatability
 translatable
 translate
 translated
+translatee
+translatees
 translates
 translating
 translation
@@ -295050,6 +295180,7 @@ transvestitisms
 transvests
 transwoman
 transwomen
+transxiphoid
 transylvanian
 trant
 tranted
@@ -316112,6 +316243,8 @@ vocalizing
 vocally
 vocalness
 vocalnesses
+vocaloid
+vocaloids
 vocals
 vocation
 vocational
@@ -318504,6 +318637,8 @@ waterhen
 waterhens
 waterhole
 waterholes
+waterhouse
+waterhouses
 waterier
 wateriest
 waterily
@@ -322847,6 +322982,7 @@ wopped
 wopping
 wops
 worcester
+worcesterberries
 worcesterberry
 worcesters
 word
@@ -323845,6 +323981,9 @@ xenomorphic
 xenomorphically
 xenon
 xenons
+xenonym
+xenonymous
+xenonyms
 xenophile
 xenophiles
 xenophobe
@@ -326722,6 +326861,7 @@ zurfs
 zurla
 zurna
 zuz
+zuzes
 zuzim
 zuzzim
 zveno
