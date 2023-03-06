@@ -224,10 +224,10 @@ eightysomethings      (n) plural of eightysomething
 ninetysomething       (n) a person between 90 and 99 years old (inclusive)
 ninetysomethings      (n) plural of ninetysomething
 gro                   (n) a clipping of one gross
-gros                  (n) plural of cro
+gros                  (n) plural of gro
 myllion               (n) one million
 myllions              (n) plural of myllion
-yoleven               (n, gambling) the number eleven, as to avoid confusion with the number sever
+yoleven               (n, gambling) the number eleven, as to avoid confusion with the number seven
 yolevens              (n) plural of yoleven
 albethey              (conj) an alternative form of albeit
 bycause               (conj) an archaic alternative spelling of because
